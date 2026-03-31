@@ -1,0 +1,2378 @@
+[
+    {
+        "id": 4,
+        "name": "Mur de Pierre",
+        "key": "wall_stone",
+        "var_name": "WALL_STONE"
+    },
+    {
+        "id": 5,
+        "name": "Mur de Poussière",
+        "key": "wall_dirt",
+        "var_name": "WALL_DIRT"
+    },
+    {
+        "id": 6,
+        "name": "Mur en Bois",
+        "key": "wall_wood",
+        "var_name": "WALL_WOOD"
+    },
+    {
+        "id": 7,
+        "name": "Mur de Planches",
+        "key": "wall_planked",
+        "var_name": "WALL_PLANKED"
+    },
+    {
+        "id": 8,
+        "name": "Mur de Briques",
+        "key": "wall_brick",
+        "var_name": "WALL_BRICK"
+    },
+    {
+        "id": 9,
+        "name": "Mur de Briques de Pierres",
+        "key": "wall_stone_brick",
+        "var_name": "WALL_STONE_BRICK"
+    },
+    {
+        "id": 10,
+        "name": "Mur de Verre",
+        "key": "wall_glass",
+        "var_name": "WALL_GLASS"
+    },
+    {
+        "id": 11,
+        "name": "Mur de briques en pierre recouvert de mousse",
+        "key": "wall_moss_stone_brick",
+        "var_name": "WALL_MOSS_STONE_BRICK"
+    },
+    {
+        "id": 12,
+        "name": "Mur Mystique",
+        "key": "wall_mystic_stone_brick",
+        "var_name": "WALL_MYSTIC_STONE_BRICK"
+    },
+    {
+        "id": 13,
+        "name": "Mur d'Obsidienne",
+        "key": "wall_obsidian",
+        "var_name": "WALL_OBSIDIAN"
+    },
+    {
+        "id": 14,
+        "name": "Mur de Verre Rouge",
+        "key": "wall_glass_blue",
+        "var_name": "WALL_GLASS_BLUE"
+    },
+    {
+        "id": 15,
+        "name": "Mur de Verre Vert",
+        "key": "wall_glass_red",
+        "var_name": "WALL_GLASS_RED"
+    },
+    {
+        "id": 16,
+        "name": "Mur de Brique Blanc",
+        "key": "wall_white_brick",
+        "var_name": "WALL_WHITE_BRICK"
+    },
+    {
+        "id": 17,
+        "name": "Mur de Planches de Revêtement",
+        "key": "wall_wood_planks",
+        "var_name": "WALL_WOOD_PLANKS"
+    },
+    {
+        "id": 18,
+        "name": "Mur d'Acier",
+        "key": "wall_metal",
+        "var_name": "WALL_METAL"
+    },
+    {
+        "id": 19,
+        "name": "Mur de Bronze",
+        "key": "wall_bronze",
+        "var_name": "WALL_BRONZE"
+    },
+    {
+        "id": 20,
+        "name": "Mur d'Or",
+        "key": "wall_gold",
+        "var_name": "WALL_GOLD"
+    },
+    {
+        "id": 21,
+        "name": "Mur de Solidium",
+        "key": "wall_techno",
+        "var_name": "WALL_TECHNO"
+    },
+    {
+        "id": 22,
+        "name": "Clôture",
+        "key": "wall_fence",
+        "var_name": "WALL_FENCE"
+    },
+    {
+        "id": 23,
+        "name": "Mur en métal recouvert de mousse",
+        "key": "wall_moss_metal_brick",
+        "var_name": "WALL_MOSS_METAL_BRICK"
+    },
+    {
+        "id": 24,
+        "name": "Mur de cage",
+        "key": "wall_designer_cage",
+        "var_name": "WALL_DESIGNER_CAGE"
+    },
+    {
+        "id": 25,
+        "name": "Mur noir",
+        "key": "wall_designer_black",
+        "var_name": "WALL_DESIGNER_BLACK"
+    },
+    {
+        "id": 26,
+        "name": "Mur blanc",
+        "key": "wall_designer_white",
+        "var_name": "WALL_DESIGNER_WHITE"
+    },
+    {
+        "id": 27,
+        "name": "Mur rouge",
+        "key": "wall_designer_red",
+        "var_name": "WALL_DESIGNER_RED"
+    },
+    {
+        "id": 28,
+        "name": "Mur vert",
+        "key": "wall_designer_green",
+        "var_name": "WALL_DESIGNER_GREEN"
+    },
+    {
+        "id": 29,
+        "name": "Mur bleu",
+        "key": "wall_designer_blue",
+        "var_name": "WALL_DESIGNER_BLUE"
+    },
+    {
+        "id": 30,
+        "name": "Mur jaune",
+        "key": "wall_designer_yellow",
+        "var_name": "WALL_DESIGNER_YELLOW"
+    },
+    {
+        "id": 32,
+        "name": "Porte",
+        "key": "block_wood_door",
+        "var_name": "WOOD_DOOR"
+    },
+    {
+        "id": 33,
+        "name": "Petite Porte",
+        "key": "block_gnome_door",
+        "var_name": "GNOME_DOOR"
+    },
+    {
+        "id": 34,
+        "name": "Trappe",
+        "key": "block_wood_trapdoor",
+        "var_name": "WOOD_TRAPDOOR"
+    },
+    {
+        "id": 35,
+        "name": "Etabli",
+        "key": "block_workbench",
+        "var_name": "WORKBENCH"
+    },
+    {
+        "id": 36,
+        "name": "Fourneau",
+        "key": "block_furnace",
+        "var_name": "FURNACE"
+    },
+    {
+        "id": 37,
+        "name": "Enclume",
+        "key": "block_anvil",
+        "var_name": "ANVIL"
+    },
+    {
+        "id": 38,
+        "name": "Table d'Alchimiste",
+        "key": "block_alchemical_table",
+        "var_name": "ALCHEMICAL_TABLE"
+    },
+    {
+        "id": 39,
+        "name": "Lit",
+        "key": "block_bed",
+        "var_name": "BED"
+    },
+    {
+        "id": 41,
+        "name": "Echelle",
+        "key": "block_ladder",
+        "var_name": "LADDER"
+    },
+    {
+        "id": 42,
+        "name": "Torche",
+        "key": "block_torch",
+        "var_name": "TORCH"
+    },
+    {
+        "id": 43,
+        "name": "Torche fragile",
+        "key": "block_small_torch",
+        "var_name": "SMALL_TORCH"
+    },
+    {
+        "id": 44,
+        "name": "Petite Image",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[0]"
+    },
+    {
+        "id": 45,
+        "name": "Petite Image",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[1]"
+    },
+    {
+        "id": 46,
+        "name": "Petite Image",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[2]"
+    },
+    {
+        "id": 47,
+        "name": "Petite Image",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[3]"
+    },
+    {
+        "id": 48,
+        "name": "Image Moyenne",
+        "key": "block_medium_picture",
+        "var_name": "MEDIUM_PICTURES[0]"
+    },
+    {
+        "id": 49,
+        "name": "Image Moyenne",
+        "key": "block_medium_picture",
+        "var_name": "MEDIUM_PICTURES[1]"
+    },
+    {
+        "id": 50,
+        "name": "Image Moyenne",
+        "key": "block_medium_picture",
+        "var_name": "MEDIUM_PICTURES[2]"
+    },
+    {
+        "id": 51,
+        "name": "Grande Image",
+        "key": "block_big_picture",
+        "var_name": "BIG_PICTURES[0]"
+    },
+    {
+        "id": 52,
+        "name": "Grande Image",
+        "key": "block_big_picture",
+        "var_name": "BIG_PICTURES[1]"
+    },
+    {
+        "id": 53,
+        "name": "Chaise",
+        "key": "block_chair",
+        "var_name": "CHAIR"
+    },
+    {
+        "id": 54,
+        "name": "Table",
+        "key": "block_table",
+        "var_name": "TABLE"
+    },
+    {
+        "id": 55,
+        "name": "Bibliothèque",
+        "key": "block_bookcase",
+        "var_name": "BOOKCASE"
+    },
+    {
+        "id": 56,
+        "name": "Chandelier",
+        "key": "block_chandelier",
+        "var_name": "CHANDELIER"
+    },
+    {
+        "id": 62,
+        "name": "Plaque de brique en pierre",
+        "key": "block_stone_brick_plate",
+        "var_name": "STONE_BRICK_PLATE"
+    },
+    {
+        "id": 67,
+        "name": "Letoch",
+        "key": "block_letoch",
+        "var_name": "LETOCH"
+    },
+    {
+        "id": 76,
+        "name": "Plaque d'obsidienne",
+        "key": "block_obsidian_plate",
+        "var_name": "OBSIDIAN_PLATE"
+    },
+    {
+        "id": 77,
+        "name": "Brûleur",
+        "key": "block_burner",
+        "var_name": "BURNER"
+    },
+    {
+        "id": 78,
+        "name": "Oeufs de feux rouges",
+        "key": "block_slug_eggs",
+        "var_name": "SLUG_EGGS"
+    },
+    {
+        "id": 82,
+        "name": "Vieil Ordinateur",
+        "key": "block_book_shadows",
+        "var_name": "BOOK_SHADOWS"
+    },
+    {
+        "id": 84,
+        "name": "Crânes",
+        "key": "block_skulls",
+        "var_name": "GARGOYLE"
+    },
+    {
+        "id": 86,
+        "name": "Signe",
+        "key": "block_marker",
+        "var_name": "MARKER"
+    },
+    {
+        "id": 87,
+        "name": "Lit en or",
+        "key": "block_great_bed",
+        "var_name": "GREAT_BED"
+    },
+    {
+        "id": 88,
+        "name": "Chaise en or",
+        "key": "block_great_chair",
+        "var_name": "GREAT_CHAIR"
+    },
+    {
+        "id": 89,
+        "name": "Table en or",
+        "key": "block_great_table",
+        "var_name": "GREAT_TABLE"
+    },
+    {
+        "id": 90,
+        "name": "Imprimante 3D 3000",
+        "key": "block_shop_exchange",
+        "var_name": "SHOP_EXCHANGE"
+    },
+    {
+        "id": 91,
+        "name": "Bannière noire",
+        "key": "block_banner_black",
+        "var_name": "BANNER_BLACK"
+    },
+    {
+        "id": 92,
+        "name": "Bannière verte",
+        "key": "block_banner_green",
+        "var_name": "BANNER_GREEN"
+    },
+    {
+        "id": 93,
+        "name": "Bannière rouge",
+        "key": "block_banner_red",
+        "var_name": "BANNER_RED"
+    },
+    {
+        "id": 94,
+        "name": "Bouquet de roses",
+        "key": "block_bouquet_roses",
+        "var_name": "BOUQUET_ROSES"
+    },
+    {
+        "id": 95,
+        "name": "Grand bouquet",
+        "key": "block_big_bouquet_random",
+        "var_name": "BIG_BOUQUET_RANDOM"
+    },
+    {
+        "id": 98,
+        "name": "Bannière orange",
+        "key": "block_banner_orange",
+        "var_name": "BANNER_ORANGE"
+    },
+    {
+        "id": 99,
+        "name": "La maison du Fennec",
+        "key": "block_surinot_home",
+        "var_name": "SURINOT_HOME"
+    },
+    {
+        "id": 100,
+        "name": "La cage de Globunny",
+        "key": "block_bluetail_home",
+        "var_name": "BLUETAIL_HOME"
+    },
+    {
+        "id": 101,
+        "name": "Lanterne",
+        "key": "block_lamp",
+        "var_name": "LAMP"
+    },
+    {
+        "id": 102,
+        "name": "Bannière bleue",
+        "key": "block_banner_blue",
+        "var_name": "BANNER_BLUE"
+    },
+    {
+        "id": 103,
+        "name": "Bannière violette",
+        "key": "block_banner_purple",
+        "var_name": "BANNER_PURPLE"
+    },
+    {
+        "id": 104,
+        "name": "Bannière blanche",
+        "key": "block_banner_white",
+        "var_name": "BANNER_WHITE"
+    },
+    {
+        "id": 106,
+        "name": "Plaque de brique blanche",
+        "key": "block_white_brick_plate",
+        "var_name": "WHITE_BRICK_PLATE"
+    },
+    {
+        "id": 114,
+        "name": "Boutique",
+        "key": "block_shop",
+        "var_name": "SHOP"
+    },
+    {
+        "id": 115,
+        "name": "Torche",
+        "key": "block_candelabrum",
+        "var_name": "CANDELABRUM"
+    },
+    {
+        "id": 117,
+        "name": "Plaque de métal",
+        "key": "block_metal_plate",
+        "var_name": "METAL_PLATE"
+    },
+    {
+        "id": 118,
+        "name": "Piège avec des pointes",
+        "key": "block_spikes_trap",
+        "var_name": "SPIKES_TRAP"
+    },
+    {
+        "id": 119,
+        "name": "Piège avec une scie",
+        "key": "block_saw_trap",
+        "var_name": "SAW_TRAP"
+    },
+    {
+        "id": 120,
+        "name": "Piège de feu",
+        "key": "block_fire_trap",
+        "var_name": "FIRE_TRAP"
+    },
+    {
+        "id": 121,
+        "name": "Piège de boules de feu",
+        "key": "block_fireball_trap",
+        "var_name": "FIREBALL_TRAP"
+    },
+    {
+        "id": 122,
+        "name": "Piège de flèches",
+        "key": "block_arrow_trap",
+        "var_name": "ARROW_TRAP"
+    },
+    {
+        "id": 125,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[0]"
+    },
+    {
+        "id": 126,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[1]"
+    },
+    {
+        "id": 127,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[2]"
+    },
+    {
+        "id": 128,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[3]"
+    },
+    {
+        "id": 130,
+        "name": "Faisceau d'énergie",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_BLUE"
+    },
+    {
+        "id": 131,
+        "name": "Faisceau d'énergie",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_GREEN"
+    },
+    {
+        "id": 132,
+        "name": "Faisceau d'énergie",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_RED"
+    },
+    {
+        "id": 133,
+        "name": "Faisceau d'énergie",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_ORANGE"
+    },
+    {
+        "id": 134,
+        "name": "Faisceau d'énergie",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_PURPLE"
+    },
+    {
+        "id": 135,
+        "name": "F-Dog Mod. B-2",
+        "key": "block_mechanical_guard",
+        "var_name": "MECHANICAL_GUARD"
+    },
+    {
+        "id": 138,
+        "name": "Station Médicale",
+        "key": "block_workshop",
+        "var_name": "WORKSHOP"
+    },
+    {
+        "id": 139,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[0]"
+    },
+    {
+        "id": 140,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[1]"
+    },
+    {
+        "id": 141,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[2]"
+    },
+    {
+        "id": 142,
+        "name": "Lit en fer",
+        "key": "block_iron_bed",
+        "var_name": "IRON_BED"
+    },
+    {
+        "id": 143,
+        "name": "Lustre en fer",
+        "key": "block_iron_chandelier_small",
+        "var_name": "IRON_CHANDELIER_SMALL"
+    },
+    {
+        "id": 144,
+        "name": "Grand lustre en or",
+        "key": "block_iron_chandelier",
+        "var_name": "IRON_CHANDELIER"
+    },
+    {
+        "id": 145,
+        "name": "Porte de fer",
+        "key": "block_iron_door",
+        "var_name": "IRON_DOOR"
+    },
+    {
+        "id": 146,
+        "name": "Echelle de fer",
+        "key": "block_iron_ladder",
+        "var_name": "IRON_LADDER"
+    },
+    {
+        "id": 149,
+        "name": "Chaise en fer",
+        "key": "block_iron_chair",
+        "var_name": "IRON_CHAIR"
+    },
+    {
+        "id": 150,
+        "name": "Table en fer",
+        "key": "block_iron_table",
+        "var_name": "IRON_TABLE"
+    },
+    {
+        "id": 151,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "GARLANDS"
+    },
+    {
+        "id": 152,
+        "name": "Epouvantail",
+        "key": "block_christmas_tree",
+        "var_name": "CHRISTMAS_TREE"
+    },
+    {
+        "id": 153,
+        "name": "Machine à sous",
+        "key": "block_big_christmas_tree",
+        "var_name": "BIG_CHRISTMAS_TREE"
+    },
+    {
+        "id": 158,
+        "name": "Colonne",
+        "key": "block_pillar",
+        "var_name": "PILLAR"
+    },
+    {
+        "id": 159,
+        "name": "Couronnement",
+        "key": "block_statue",
+        "var_name": "STATUE"
+    },
+    {
+        "id": 160,
+        "name": "Trône du roi",
+        "key": "block_throne",
+        "var_name": "THRONE"
+    },
+    {
+        "id": 161,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[3]"
+    },
+    {
+        "id": 162,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[4]"
+    },
+    {
+        "id": 163,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "SLIDING_PLATE_TRAP"
+    },
+    {
+        "id": 165,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R1"
+    },
+    {
+        "id": 167,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L1"
+    },
+    {
+        "id": 168,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T1"
+    },
+    {
+        "id": 170,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T2"
+    },
+    {
+        "id": 171,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T3"
+    },
+    {
+        "id": 172,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T4"
+    },
+    {
+        "id": 173,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R2"
+    },
+    {
+        "id": 174,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L2"
+    },
+    {
+        "id": 175,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R3"
+    },
+    {
+        "id": 176,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L3"
+    },
+    {
+        "id": 177,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R4"
+    },
+    {
+        "id": 178,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L4"
+    },
+    {
+        "id": 179,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R5"
+    },
+    {
+        "id": 180,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L5"
+    },
+    {
+        "id": 181,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R6"
+    },
+    {
+        "id": 182,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L6"
+    },
+    {
+        "id": 183,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R7"
+    },
+    {
+        "id": 184,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L7"
+    },
+    {
+        "id": 185,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R8"
+    },
+    {
+        "id": 186,
+        "name": "Branche d'arbre",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L8"
+    },
+    {
+        "id": 188,
+        "name": "Lit en solidium",
+        "key": "block_techno_bed",
+        "var_name": "TECHNO_BED"
+    },
+    {
+        "id": 189,
+        "name": "Chaise en solidium",
+        "key": "block_techno_chair",
+        "var_name": "TECHNO_CHAIR"
+    },
+    {
+        "id": 190,
+        "name": "Porte d'or",
+        "key": "block_gold_door",
+        "var_name": "GOLD_DOOR"
+    },
+    {
+        "id": 191,
+        "name": "Porte en solodium",
+        "key": "block_techno_door",
+        "var_name": "TECHNO_DOOR"
+    },
+    {
+        "id": 192,
+        "name": "Bibliothèque de Fer",
+        "key": "block_bookcase_iron",
+        "var_name": "BOOKCASE_IRON"
+    },
+    {
+        "id": 193,
+        "name": "Bibliothèque d'Or",
+        "key": "block_bookcase_gold",
+        "var_name": "BOOKCASE_GOLD"
+    },
+    {
+        "id": 194,
+        "name": "Canapé en fer",
+        "key": "block_iron_sofa",
+        "var_name": "IRON_SOFA"
+    },
+    {
+        "id": 195,
+        "name": "Canapé en or",
+        "key": "block_great_sofa",
+        "var_name": "GREAT_SOFA"
+    },
+    {
+        "id": 196,
+        "name": "Canapé en solidium",
+        "key": "block_techno_sofa",
+        "var_name": "TECHNO_SOFA"
+    },
+    {
+        "id": 198,
+        "name": "Table en solidium",
+        "key": "block_techno_table",
+        "var_name": "TECHNO_TABLE"
+    },
+    {
+        "id": 199,
+        "name": "TV",
+        "key": "block_techno_tv",
+        "var_name": "TECHNO_TV"
+    },
+    {
+        "id": 200,
+        "name": "Etabli Technologique",
+        "key": "block_techno_workbench",
+        "var_name": "TECHNO_WORKBENCH"
+    },
+    {
+        "id": 201,
+        "name": "Bougeoir en or",
+        "key": "block_big_candlestick",
+        "var_name": "BIG_CANDELSTICK"
+    },
+    {
+        "id": 202,
+        "name": "Lampe de fer",
+        "key": "block_iron_lamp",
+        "var_name": "IRON_LAMP"
+    },
+    {
+        "id": 204,
+        "name": "Plaque de carrelage",
+        "key": "block_tile_plate",
+        "var_name": "TILE_PLATE"
+    },
+    {
+        "id": 205,
+        "name": "Vaisselle en Or",
+        "key": "block_gold_plate",
+        "var_name": "GOLD_PLATE"
+    },
+    {
+        "id": 206,
+        "name": "Plaque de bronze",
+        "key": "block_bronze_plate",
+        "var_name": "BRONZE_PLATE"
+    },
+    {
+        "id": 207,
+        "name": "Poulailler",
+        "key": "block_chicken_house",
+        "var_name": "CHICKEN_HOUSE"
+    },
+    {
+        "id": 208,
+        "name": "Vaisseau spatial",
+        "key": "block_space_ship",
+        "var_name": "SPACE_SHIP"
+    },
+    {
+        "id": 209,
+        "name": "Fenêtre",
+        "key": "block_window",
+        "var_name": "WINDOW_DOOR"
+    },
+    {
+        "id": 210,
+        "name": "Lampe de phare",
+        "key": "lighthouse_lamp",
+        "var_name": "LIGHTHOUSE_LAMP"
+    },
+    {
+        "id": 211,
+        "name": "Aquarium",
+        "key": "block_aquarium",
+        "var_name": "AQUARIUM"
+    },
+    {
+        "id": 213,
+        "name": "Télévision",
+        "key": "block_tvforwall",
+        "var_name": "TVFORWALL"
+    },
+    {
+        "id": 214,
+        "name": "Porte-bagages",
+        "key": "block_arms_rack",
+        "var_name": "ARMS_RACKS_SECOND"
+    },
+    {
+        "id": 215,
+        "name": "Poster Hamster dans l'espace",
+        "key": "item_hamster_banner",
+        "var_name": "POSTER_HAMSTER"
+    },
+    {
+        "id": 216,
+        "name": "Poster Interstellaire",
+        "key": "item_rocket_banner",
+        "var_name": "POSTER_ROCKET"
+    },
+    {
+        "id": 217,
+        "name": "Plaque de solidium",
+        "key": "block_techno_plate",
+        "var_name": "TECHNO_PLATE"
+    },
+    {
+        "id": 219,
+        "name": "La maison du Panda Violet",
+        "key": "block_purple_home",
+        "var_name": "PURPLE_HOME"
+    },
+    {
+        "id": 220,
+        "name": "Statue de héros",
+        "key": "block_hero_statue",
+        "var_name": "HERO_STATUE"
+    },
+    {
+        "id": 221,
+        "name": "Le Livre des Souvenirs",
+        "key": "block_book_memories",
+        "var_name": "BOOK_OF_MEMORIES"
+    },
+    {
+        "id": 229,
+        "name": "Le Livre des Souvenirs",
+        "key": "block_book_memories",
+        "var_name": "BOOK_OF_MEMORIES_PART2"
+    },
+    {
+        "id": 230,
+        "name": "Plaque noire",
+        "key": "plate_designer_black",
+        "var_name": "PLATE_DESIGNER_BLACK"
+    },
+    {
+        "id": 231,
+        "name": "Plaque blanche",
+        "key": "plate_designer_white",
+        "var_name": "PLATE_DESIGNER_WHITE"
+    },
+    {
+        "id": 232,
+        "name": "Plaque rouge",
+        "key": "plate_designer_red",
+        "var_name": "PLATE_DESIGNER_RED"
+    },
+    {
+        "id": 233,
+        "name": "Plaque verte",
+        "key": "plate_designer_green",
+        "var_name": "PLATE_DESIGNER_GREEN"
+    },
+    {
+        "id": 234,
+        "name": "Plaque bleue",
+        "key": "plate_designer_blue",
+        "var_name": "PLATE_DESIGNER_BLUE"
+    },
+    {
+        "id": 235,
+        "name": "Plaque jaune",
+        "key": "plate_designer_yellow",
+        "var_name": "PLATE_DESIGNER_YELLOW"
+    },
+    {
+        "id": 258,
+        "name": "Obsidienne",
+        "key": "block_obsidian",
+        "var_name": "OBSIDIAN"
+    },
+    {
+        "id": 259,
+        "name": "Pierre",
+        "key": "block_stone",
+        "var_name": "STONE"
+    },
+    {
+        "id": 265,
+        "name": "Bloc de Fer",
+        "key": "block_iron_storage",
+        "var_name": "IRON_STORAGE"
+    },
+    {
+        "id": 266,
+        "name": "Bloc d'Or",
+        "key": "block_gold_storage",
+        "var_name": "GOLD_STORAGE"
+    },
+    {
+        "id": 267,
+        "name": "Bloc de Diamant",
+        "key": "block_diamond_storage",
+        "var_name": "DIAMOND_STORAGE"
+    },
+    {
+        "id": 268,
+        "name": "Bloc de Solidium",
+        "key": "block_fire_iron_storage",
+        "var_name": "FIRE_IRON_STORAGE"
+    },
+    {
+        "id": 269,
+        "name": "Saleté",
+        "key": "block_dirt",
+        "var_name": "DIRT"
+    },
+    {
+        "id": 271,
+        "name": "Sable",
+        "key": "block_sand",
+        "var_name": "SAND"
+    },
+    {
+        "id": 272,
+        "name": "Argile",
+        "key": "block_clay",
+        "var_name": "CLAY"
+    },
+    {
+        "id": 273,
+        "name": "Herbe",
+        "key": "block_grass",
+        "var_name": "GRASS"
+    },
+    {
+        "id": 278,
+        "name": "Champignon Rouge",
+        "key": "block_red_mushroom",
+        "var_name": "RED_MUSHROOM"
+    },
+    {
+        "id": 282,
+        "name": "Bois",
+        "key": "block_wood",
+        "var_name": "WOOD"
+    },
+    {
+        "id": 283,
+        "name": "Brique",
+        "key": "block_brick",
+        "var_name": "BRICK"
+    },
+    {
+        "id": 287,
+        "name": "Verre",
+        "key": "block_glass",
+        "var_name": "GLASS"
+    },
+    {
+        "id": 313,
+        "name": "Araignée",
+        "key": "block_web",
+        "var_name": "WEB"
+    },
+    {
+        "id": 314,
+        "name": "Laine",
+        "key": "block_fleece",
+        "var_name": "FLEECE"
+    },
+    {
+        "id": 315,
+        "name": "Corail bleu",
+        "key": "block_blue_coral",
+        "var_name": "BLUE_CORAL"
+    },
+    {
+        "id": 316,
+        "name": "Corail vert",
+        "key": "block_green_coral",
+        "var_name": "GREEN_CORAL"
+    },
+    {
+        "id": 317,
+        "name": "Brique de pierre",
+        "key": "block_stone_brick",
+        "var_name": "STONE_BRICK"
+    },
+    {
+        "id": 320,
+        "name": "Champignons sorcières",
+        "key": "block_witches_mushroom",
+        "var_name": "WITCHES_MUSHROOM"
+    },
+    {
+        "id": 321,
+        "name": "Fleur de Feu",
+        "key": "block_fireflower",
+        "var_name": "FIREFLOWER"
+    },
+    {
+        "id": 322,
+        "name": "Champignon jaune",
+        "key": "block_yellow_mushroom",
+        "var_name": "GELINEYA"
+    },
+    {
+        "id": 324,
+        "name": "Fleur de lumière",
+        "key": "block_peresvet",
+        "var_name": "PERESVET"
+    },
+    {
+        "id": 325,
+        "name": "Pavé",
+        "key": "block_cobblestone",
+        "var_name": "COBBLESTONE"
+    },
+    {
+        "id": 329,
+        "name": "Briques de pierre recouvertes de mousse",
+        "key": "block_moss_stone_brick",
+        "var_name": "MOSS_STONE_BRICK"
+    },
+    {
+        "id": 331,
+        "name": "Brique d'obsidienne",
+        "key": "block_obsidian_brick",
+        "var_name": "OBSIDIAN_BRICK"
+    },
+    {
+        "id": 335,
+        "name": "Rocher visqueux brulant",
+        "key": "block_slug",
+        "var_name": "SLUG"
+    },
+    {
+        "id": 337,
+        "name": "Persienne",
+        "key": "block_louver",
+        "var_name": "LOUVER"
+    },
+    {
+        "id": 339,
+        "name": "Crânes",
+        "key": "block_skulls",
+        "var_name": "SKULLS"
+    },
+    {
+        "id": 352,
+        "name": "Verre rouge",
+        "key": "block_glass_blue",
+        "var_name": "GLASS_BLUE"
+    },
+    {
+        "id": 353,
+        "name": "Verre vert",
+        "key": "block_glass_red",
+        "var_name": "GLASS_RED"
+    },
+    {
+        "id": 361,
+        "name": "Brique blanche",
+        "key": "block_white_brick",
+        "var_name": "WHITE_BRICK"
+    },
+    {
+        "id": 363,
+        "name": "Planche de bois",
+        "key": "block_wood_planks",
+        "var_name": "WOOD_PLANKS"
+    },
+    {
+        "id": 372,
+        "name": "Bloc métallique",
+        "key": "block_metal",
+        "var_name": "METAL"
+    },
+    {
+        "id": 422,
+        "name": "Bloc de Bronze",
+        "key": "block_bronze_storage",
+        "var_name": "BRONZE_STORAGE"
+    },
+    {
+        "id": 443,
+        "name": "Toit",
+        "key": "block_tileroof",
+        "var_name": "TILEROOF"
+    },
+    {
+        "id": 459,
+        "name": "Blocs de métal recouverts de mousse",
+        "key": "block_moss_metal",
+        "var_name": "MOSS_METAL_BLOCK"
+    },
+    {
+        "id": 474,
+        "name": "Champignon bleu",
+        "key": "block_blue_mushroom",
+        "var_name": "BLUE_MUSHROOM"
+    },
+    {
+        "id": 478,
+        "name": "Bloc de cage",
+        "key": "tile_designer_cage",
+        "var_name": "TILE_DESIGNER_CAGE"
+    },
+    {
+        "id": 479,
+        "name": "Bloc noir",
+        "key": "tile_designer_black",
+        "var_name": "TILE_DESIGNER_BLACK"
+    },
+    {
+        "id": 480,
+        "name": "Bloc blanc",
+        "key": "tile_designer_white",
+        "var_name": "TILE_DESIGNER_WHITE"
+    },
+    {
+        "id": 481,
+        "name": "Bloc rouge",
+        "key": "tile_designer_red",
+        "var_name": "TILE_DESIGNER_RED"
+    },
+    {
+        "id": 482,
+        "name": "Bloc vert",
+        "key": "tile_designer_green",
+        "var_name": "TILE_DESIGNER_GREEN"
+    },
+    {
+        "id": 483,
+        "name": "Bloc bleu",
+        "key": "tile_designer_blue",
+        "var_name": "TILE_DESIGNER_BLUE"
+    },
+    {
+        "id": 484,
+        "name": "Bloc jaune",
+        "key": "tile_designer_yellow",
+        "var_name": "TILE_DESIGNER_YELLOW"
+    },
+    {
+        "id": 1024,
+        "name": "Charbon",
+        "key": "item_coal",
+        "var_name": "COAL"
+    },
+    {
+        "id": 1025,
+        "name": "Minerai de fer",
+        "key": "item_iron_ore",
+        "var_name": "IRON_ORE"
+    },
+    {
+        "id": 1026,
+        "name": "Minerai d'or",
+        "key": "item_gold_ore",
+        "var_name": "GOLD_ORE"
+    },
+    {
+        "id": 1027,
+        "name": "Cristal d'énergie",
+        "key": "item_diamond",
+        "var_name": "DIAMOND"
+    },
+    {
+        "id": 1028,
+        "name": "Minerai de Solidium",
+        "key": "item_fire_iron_ore",
+        "var_name": "FIRE_IRON_ORE"
+    },
+    {
+        "id": 1029,
+        "name": "Lingot de fer",
+        "key": "item_iron_bar",
+        "var_name": "IRON_BAR"
+    },
+    {
+        "id": 1030,
+        "name": "Lingot d'or",
+        "key": "item_gold_bar",
+        "var_name": "GOLD_BAR"
+    },
+    {
+        "id": 1031,
+        "name": "Lingot de solidium",
+        "key": "item_fire_iron_bar",
+        "var_name": "FIRE_IRON_BAR"
+    },
+    {
+        "id": 1032,
+        "name": "Résine",
+        "key": "item_resin",
+        "var_name": "RESIN"
+    },
+    {
+        "id": 1033,
+        "name": "Graine de rose",
+        "key": "item_rose_seed",
+        "var_name": "ROSE_SEED"
+    },
+    {
+        "id": 1034,
+        "name": "Graine de tulipe",
+        "key": "item_tulpan_seed",
+        "var_name": "TULPAN_SEED"
+    },
+    {
+        "id": 1035,
+        "name": "Arrosoir",
+        "key": "item_bailer",
+        "var_name": "BAILER"
+    },
+    {
+        "id": 1036,
+        "name": "Bêche",
+        "key": "item_picker",
+        "var_name": "PICKER"
+    },
+    {
+        "id": 1037,
+        "name": "Sécateur",
+        "key": "item_shears",
+        "var_name": "SHEARS"
+    },
+    {
+        "id": 1038,
+        "name": "Seau vide",
+        "key": "item_empty_bucket",
+        "var_name": "EMPTY_BUCKET"
+    },
+    {
+        "id": 1039,
+        "name": "Seau d'eau",
+        "key": "item_bucket_with_water",
+        "var_name": "BUCKET_WITH_WATER"
+    },
+    {
+        "id": 1040,
+        "name": "Seau de magma",
+        "key": "item_bucket_with_magma",
+        "var_name": "BUCKET_WITH_MAGMA"
+    },
+    {
+        "id": 1041,
+        "name": "Bouteille vide",
+        "key": "item_empty_bottle",
+        "var_name": "EMPTY_BOTTLE"
+    },
+    {
+        "id": 1042,
+        "name": "Bouteille d'eau",
+        "key": "item_bottle_with_water",
+        "var_name": "BOTTLE_WITH_WATER"
+    },
+    {
+        "id": 1043,
+        "name": "Pelle en pierre",
+        "key": "item_stone_shovel",
+        "var_name": "STONE_SHOVEL"
+    },
+    {
+        "id": 1044,
+        "name": "Pelle de fer",
+        "key": "item_iron_shovel",
+        "var_name": "IRON_SHOVEL"
+    },
+    {
+        "id": 1045,
+        "name": "Pelle en or",
+        "key": "item_gold_shovel",
+        "var_name": "GOLD_SHOVEL"
+    },
+    {
+        "id": 1046,
+        "name": "Enorme perceuse",
+        "key": "item_diamond_shovel",
+        "var_name": "DIAMOND_SHOVEL"
+    },
+    {
+        "id": 1047,
+        "name": "Pelle en solidium",
+        "key": "item_fire_iron_shovel",
+        "var_name": "FIRE_IRON_SHOVEL"
+    },
+    {
+        "id": 1048,
+        "name": "Hache en pierre",
+        "key": "item_stone_axe",
+        "var_name": "STONE_AXE"
+    },
+    {
+        "id": 1049,
+        "name": "Hache en fer",
+        "key": "item_iron_axe",
+        "var_name": "IRON_AXE"
+    },
+    {
+        "id": 1050,
+        "name": "Hache en or",
+        "key": "item_gold_axe",
+        "var_name": "GOLD_AXE"
+    },
+    {
+        "id": 1051,
+        "name": "Tronçonneuse",
+        "key": "item_diamond_axe",
+        "var_name": "DIAMOND_AXE"
+    },
+    {
+        "id": 1052,
+        "name": "Hache en solidium",
+        "key": "item_fire_iron_axe",
+        "var_name": "FIRE_IRON_AXE"
+    },
+    {
+        "id": 1053,
+        "name": "Marteau en pierre",
+        "key": "item_stone_hammer",
+        "var_name": "STONE_HAMMER"
+    },
+    {
+        "id": 1054,
+        "name": "Marteau en fer",
+        "key": "item_iron_hammer",
+        "var_name": "IRON_HAMMER"
+    },
+    {
+        "id": 1055,
+        "name": "Marteau en or",
+        "key": "item_gold_hammer",
+        "var_name": "GOLD_HAMMER"
+    },
+    {
+        "id": 1056,
+        "name": "Marteau pneumatique",
+        "key": "item_diamond_hammer",
+        "var_name": "DIAMOND_HAMMER"
+    },
+    {
+        "id": 1057,
+        "name": "Marteau en solidium",
+        "key": "item_fire_iron_hammer",
+        "var_name": "FIRE_IRON_HAMMER"
+    },
+    {
+        "id": 1058,
+        "name": "Pioche en bois",
+        "key": "item_wood_pickaxe",
+        "var_name": "WOOD_PICKAXE"
+    },
+    {
+        "id": 1059,
+        "name": "Pioche en pierre",
+        "key": "item_stone_pickaxe",
+        "var_name": "STONE_PICKAXE"
+    },
+    {
+        "id": 1060,
+        "name": "Pioche en fer",
+        "key": "item_iron_pickaxe",
+        "var_name": "IRON_PICKAXE"
+    },
+    {
+        "id": 1061,
+        "name": "Pioche en or",
+        "key": "item_gold_pickaxe",
+        "var_name": "GOLD_PICKAXE"
+    },
+    {
+        "id": 1062,
+        "name": "Perceuse giga",
+        "key": "item_diamond_pickaxe",
+        "var_name": "DIAMOND_PICKAXE"
+    },
+    {
+        "id": 1063,
+        "name": "Pioche en solidium",
+        "key": "item_fire_iron_pickaxe",
+        "var_name": "FIRE_IRON_PICKAXE"
+    },
+    {
+        "id": 1064,
+        "name": "Massue",
+        "key": "item_stone_sword",
+        "var_name": "STONE_SWORD"
+    },
+    {
+        "id": 1065,
+        "name": "Epée de fer",
+        "key": "item_iron_sword",
+        "var_name": "IRON_SWORD"
+    },
+    {
+        "id": 1066,
+        "name": "Epée en or",
+        "key": "item_gold_sword",
+        "var_name": "GOLD_SWORD"
+    },
+    {
+        "id": 1067,
+        "name": "Epée obsidienne",
+        "key": "item_diamond_sword",
+        "var_name": "DIAMOND_SWORD"
+    },
+    {
+        "id": 1068,
+        "name": "Epée en solidium",
+        "key": "item_fire_iron_sword",
+        "var_name": "FIRE_IRON_SWORD"
+    },
+    {
+        "id": 1069,
+        "name": "Arc",
+        "key": "item_bow",
+        "var_name": "BOW"
+    },
+    {
+        "id": 1070,
+        "name": "Arbalète",
+        "key": "item_crossbow",
+        "var_name": "CROSSBOW"
+    },
+    {
+        "id": 1071,
+        "name": "Flèche",
+        "key": "item_arrow",
+        "var_name": "ARROW"
+    },
+    {
+        "id": 1072,
+        "name": "Boulon",
+        "key": "item_bolt",
+        "var_name": "BOLT"
+    },
+    {
+        "id": 1073,
+        "name": "Casque en cuir",
+        "key": "item_leather_helmet",
+        "var_name": "LEATHER_HELMET"
+    },
+    {
+        "id": 1074,
+        "name": "Casque en fer",
+        "key": "item_iron_helmet",
+        "var_name": "IRON_HELMET"
+    },
+    {
+        "id": 1075,
+        "name": "Casque d'or",
+        "key": "item_gold_helmet",
+        "var_name": "GOLD_HELMET"
+    },
+    {
+        "id": 1076,
+        "name": "casque d'obsidian",
+        "key": "item_diamond_helmet",
+        "var_name": "DIAMOND_HELMET"
+    },
+    {
+        "id": 1077,
+        "name": "Casque de solidium",
+        "key": "item_fire_iron_helmet",
+        "var_name": "FIRE_IRON_HELMET"
+    },
+    {
+        "id": 1078,
+        "name": "Assiette en cuir",
+        "key": "item_leather_chainmail",
+        "var_name": "LEATHER_CHAINMAIL"
+    },
+    {
+        "id": 1079,
+        "name": "Assiette en fer",
+        "key": "item_iron_chainmail",
+        "var_name": "IRON_CHAINMAIL"
+    },
+    {
+        "id": 1080,
+        "name": "Assiette en or",
+        "key": "item_gold_chainmail",
+        "var_name": "GOLD_CHAINMAIL"
+    },
+    {
+        "id": 1081,
+        "name": "Assiette en obsidian",
+        "key": "item_diamond_chainmail",
+        "var_name": "DIAMOND_CHAINMAIL"
+    },
+    {
+        "id": 1082,
+        "name": "Assiette en solidium",
+        "key": "item_fire_iron_chainmail",
+        "var_name": "FIRE_IRON_CHAINMAIL"
+    },
+    {
+        "id": 1083,
+        "name": "Bottes en cuir",
+        "key": "item_leather_greaves",
+        "var_name": "LEATHER_GREAVES"
+    },
+    {
+        "id": 1084,
+        "name": "Bottes en bronze",
+        "key": "item_iron_greaves",
+        "var_name": "IRON_GREAVES"
+    },
+    {
+        "id": 1085,
+        "name": "Botte en or",
+        "key": "item_gold_greaves",
+        "var_name": "GOLD_GREAVES"
+    },
+    {
+        "id": 1086,
+        "name": "Bottes en obsidian",
+        "key": "item_diamond_greaves",
+        "var_name": "DIAMOND_GREAVES"
+    },
+    {
+        "id": 1087,
+        "name": "Bottes en solidium",
+        "key": "item_fire_iron_greaves",
+        "var_name": "FIRE_IRON_GREAVES"
+    },
+    {
+        "id": 1088,
+        "name": "Potion pour guérir",
+        "key": "item_healing_potion",
+        "var_name": "HEALING_POTION"
+    },
+    {
+        "id": 1089,
+        "name": "Potion pour être invisible",
+        "key": "item_invisibility_potion",
+        "var_name": "INVISIBILITY_POTION"
+    },
+    {
+        "id": 1090,
+        "name": "Potion branchies",
+        "key": "item_gills_potion",
+        "var_name": "GILLS_POTION"
+    },
+    {
+        "id": 1091,
+        "name": "Potion de lévitation",
+        "key": "item_levitation_potion",
+        "var_name": "LEVITATION_POTION"
+    },
+    {
+        "id": 1092,
+        "name": "Antidote",
+        "key": "item_antidote_potion",
+        "var_name": "ANTIDOTE_POTION"
+    },
+    {
+        "id": 1093,
+        "name": "Epée des abysses",
+        "key": "item_demonic_sword",
+        "var_name": "DEMONIC_SWORD"
+    },
+    {
+        "id": 1094,
+        "name": "Cap de nuit",
+        "key": "item_hood",
+        "var_name": "HOOD"
+    },
+    {
+        "id": 1095,
+        "name": "Couronne d'Empereur de la galaxie",
+        "key": "item_grindol_crown",
+        "var_name": "GRINDOL_CROWN"
+    },
+    {
+        "id": 1096,
+        "name": "Epée légère",
+        "key": "item_sword_depths",
+        "var_name": "SWORD_DEPTHS"
+    },
+    {
+        "id": 1097,
+        "name": "Casque de Tyrant",
+        "key": "item_zartane_helmet",
+        "var_name": "ZARTANE_HELMET"
+    },
+    {
+        "id": 1098,
+        "name": "Plastron de Tyrant",
+        "key": "item_zartane_chainmail",
+        "var_name": "ZARTANE_CHAINMAIL"
+    },
+    {
+        "id": 1099,
+        "name": "Bottes de Tyrant",
+        "key": "item_zartane_greaves",
+        "var_name": "ZARTANE_GREAVES"
+    },
+    {
+        "id": 1100,
+        "name": "Graines d'algues à branchies",
+        "key": "item_gilliweed_seed",
+        "var_name": "GILLIWEED_SEED"
+    },
+    {
+        "id": 1101,
+        "name": "algues à branchies",
+        "key": "item_gilliweed",
+        "var_name": "GILLIWEED"
+    },
+    {
+        "id": 1102,
+        "name": "L'origine de la vie",
+        "key": "item_essence_live",
+        "var_name": "ESSENCE_LIVE"
+    },
+    {
+        "id": 1103,
+        "name": "Méduse Gluante",
+        "key": "item_invisibility_powder",
+        "var_name": "INVISIBILITY_POWDER"
+    },
+    {
+        "id": 1104,
+        "name": "Graines de Geliney",
+        "key": "item_gelineya_seed",
+        "var_name": "GELINEYA_SEED"
+    },
+    {
+        "id": 1105,
+        "name": "Graines de Letoch",
+        "key": "item_letoch_seed",
+        "var_name": "LETOCH_SEED"
+    },
+    {
+        "id": 1106,
+        "name": "Viande crue",
+        "key": "item_meat",
+        "var_name": "MEAT"
+    },
+    {
+        "id": 1107,
+        "name": "Viande frit",
+        "key": "item_roast",
+        "var_name": "ROAST"
+    },
+    {
+        "id": 1108,
+        "name": "Cage vide",
+        "key": "item_empty_cage",
+        "var_name": "EMPTY_CAGE"
+    },
+    {
+        "id": 1109,
+        "name": "Cage avec une poule",
+        "key": "item_cage_with_hare",
+        "var_name": "CAGE_WITH_HARE"
+    },
+    {
+        "id": 1110,
+        "name": "Anneau de progression",
+        "key": "item_horn_gargoyle",
+        "var_name": "HORN_GARGOYLE"
+    },
+    {
+        "id": 1111,
+        "name": "Onglet de téléportation",
+        "key": "item_scroll_teleport",
+        "var_name": "SCROLL_TELEPORT"
+    },
+    {
+        "id": 1113,
+        "name": "Lunettes de motard",
+        "key": "item_gnome_glasses",
+        "var_name": "GNOME_GLASSES"
+    },
+    {
+        "id": 1114,
+        "name": "Chapeau cosmo",
+        "key": "item_scottish_jacket",
+        "var_name": "SCOTTISH_JACKET"
+    },
+    {
+        "id": 1115,
+        "name": "Bottes cosmo",
+        "key": "item_scottish_skirt",
+        "var_name": "SCOTTISH_SKIRT"
+    },
+    {
+        "id": 1116,
+        "name": "Guitare",
+        "key": "item_bagpipes",
+        "var_name": "BAGPIPES"
+    },
+    {
+        "id": 1117,
+        "name": "Cage avec un Fenik",
+        "key": "item_cage_with_surinot",
+        "var_name": "CAGE_WITH_SURINOT"
+    },
+    {
+        "id": 1118,
+        "name": "Potion de vitesse",
+        "key": "item_speed_potion",
+        "var_name": "SPEED_POTION"
+    },
+    {
+        "id": 1119,
+        "name": "Ananas",
+        "key": "item_carrot",
+        "var_name": "CARROT"
+    },
+    {
+        "id": 1120,
+        "name": "Graine d'ananas",
+        "key": "item_carrot_seed",
+        "var_name": "CARROT_SEED"
+    },
+    {
+        "id": 1121,
+        "name": "Chou",
+        "key": "item_pumpkin",
+        "var_name": "PUMPKIN"
+    },
+    {
+        "id": 1122,
+        "name": "Graine de chou",
+        "key": "item_pumpkin_seed",
+        "var_name": "PUMPKIN_SEED"
+    },
+    {
+        "id": 1123,
+        "name": "Blé",
+        "key": "item_eggplant",
+        "var_name": "EGGPLANT"
+    },
+    {
+        "id": 1124,
+        "name": "Graine de maïs",
+        "key": "item_eggplant_seed",
+        "var_name": "EGGPLANT_SEED"
+    },
+    {
+        "id": 1125,
+        "name": "Vestes de pyjamas",
+        "key": "item_trader_jacket",
+        "var_name": "TRADER_JACKET"
+    },
+    {
+        "id": 1126,
+        "name": "pantalons de pyjamas",
+        "key": "item_trader_pants",
+        "var_name": "TRADER_PANTS"
+    },
+    {
+        "id": 1162,
+        "name": "Epée de l'Univers",
+        "key": "item_gromon",
+        "var_name": "GROMON"
+    },
+    {
+        "id": 1163,
+        "name": "Tyrantium",
+        "key": "item_luminary",
+        "var_name": "LUMINARY"
+    },
+    {
+        "id": 1164,
+        "name": "Carte clé",
+        "key": "item_treasure_key",
+        "var_name": "TREASURE_KEY"
+    },
+    {
+        "id": 1166,
+        "name": "Pièces en métal",
+        "key": "item_gear",
+        "var_name": "GEAR"
+    },
+    {
+        "id": 1167,
+        "name": "Scie circulaire",
+        "key": "item_circular_saw",
+        "var_name": "CIRCULAR_SAW"
+    },
+    {
+        "id": 1168,
+        "name": "Batterie",
+        "key": "item_battery",
+        "var_name": "BATTERY"
+    },
+    {
+        "id": 1169,
+        "name": "Casque nucléaire",
+        "key": "item_proto_helmet",
+        "var_name": "PROTO_HELMET"
+    },
+    {
+        "id": 1170,
+        "name": "Plastron nucléaire",
+        "key": "item_proto_chainmail",
+        "var_name": "PROTO_CHAINMAIL"
+    },
+    {
+        "id": 1171,
+        "name": "Bottes nucléaires",
+        "key": "item_proto_greaves",
+        "var_name": "PROTO_GREAVES"
+    },
+    {
+        "id": 1172,
+        "name": "Exterminatus",
+        "key": "item_exterminatus",
+        "var_name": "NO_VARIABLE"
+    },
+    {
+        "id": 1173,
+        "name": "Capuche de poulet",
+        "key": "item_mage_head_black",
+        "var_name": "MAGE_HEAD_BLACK"
+    },
+    {
+        "id": 1174,
+        "name": "Cape de poulet",
+        "key": "item_mage_body_black",
+        "var_name": "MAGE_BODY_BLACK"
+    },
+    {
+        "id": 1175,
+        "name": "Pantalons de poulet",
+        "key": "item_mage_legs_black",
+        "var_name": "MAGE_LEGS_BLACK"
+    },
+    {
+        "id": 1176,
+        "name": "Dynamite",
+        "key": "item_farework",
+        "var_name": "FIREWORK"
+    },
+    {
+        "id": 1177,
+        "name": "Cape rouge",
+        "key": "item_mage_head_gray",
+        "var_name": "MAGE_HEAD_GRAY"
+    },
+    {
+        "id": 1178,
+        "name": "Chemise blanche",
+        "key": "item_mage_body_gray",
+        "var_name": "MAGE_BODY_GRAY"
+    },
+    {
+        "id": 1179,
+        "name": "Pantalons",
+        "key": "item_mage_legs_gray",
+        "var_name": "MAGE_LEGS_GRAY"
+    },
+    {
+        "id": 1180,
+        "name": "Chapeau d'inconnu",
+        "key": "item_mage_head_green",
+        "var_name": "MAGE_HEAD_GREEN"
+    },
+    {
+        "id": 1181,
+        "name": "Veste d'inconnu",
+        "key": "item_mage_body_green",
+        "var_name": "MAGE_BODY_GREEN"
+    },
+    {
+        "id": 1182,
+        "name": "Pantalons d'inconnu",
+        "key": "item_mage_legs_green",
+        "var_name": "MAGE_LEGS_GREEN"
+    },
+    {
+        "id": 1183,
+        "name": "Masque à gaz",
+        "key": "item_mage_head_purple",
+        "var_name": "MAGE_HEAD_PURPLE"
+    },
+    {
+        "id": 1184,
+        "name": "Combinaison de protection",
+        "key": "item_mage_body_purple",
+        "var_name": "MAGE_BODY_PURPLE"
+    },
+    {
+        "id": 1185,
+        "name": "Bottes de protection",
+        "key": "item_mage_legs_purple",
+        "var_name": "MAGE_LEGS_PURPLE"
+    },
+    {
+        "id": 1186,
+        "name": "Concentrée de potion de restauration",
+        "key": "item_great_healing_potion",
+        "var_name": "GREAT_HEALING_POTION"
+    },
+    {
+        "id": 1188,
+        "name": "Cuir",
+        "key": "item_leather",
+        "var_name": "LEATHER"
+    },
+    {
+        "id": 1189,
+        "name": "Epée de bronze",
+        "key": "item_bronze_sword",
+        "var_name": "BRONZE_SWORD"
+    },
+    {
+        "id": 1190,
+        "name": "Pelle de bronze",
+        "key": "item_bronze_shovel",
+        "var_name": "BRONZE_SHOVEL"
+    },
+    {
+        "id": 1191,
+        "name": "Hache en bronze",
+        "key": "item_bronze_axe",
+        "var_name": "BRONZE_AXE"
+    },
+    {
+        "id": 1192,
+        "name": "Marteau en bronze",
+        "key": "item_bronze_hammer",
+        "var_name": "BRONZE_HAMMER"
+    },
+    {
+        "id": 1193,
+        "name": "Pioche en bronze",
+        "key": "item_bronze_pickaxe",
+        "var_name": "BRONZE_PICKAXE"
+    },
+    {
+        "id": 1194,
+        "name": "Minerai de bronze",
+        "key": "item_bronze_ore",
+        "var_name": "BRONZE_ORE"
+    },
+    {
+        "id": 1195,
+        "name": "Lingot de bronze",
+        "key": "item_bronze_bar",
+        "var_name": "BRONZE_BAR"
+    },
+    {
+        "id": 1196,
+        "name": "Casque en bronze",
+        "key": "item_bronze_helmet",
+        "var_name": "BRONZE_HELMET"
+    },
+    {
+        "id": 1197,
+        "name": "Assiette en bronze",
+        "key": "item_bronze_chainmail",
+        "var_name": "BRONZE_CHAINMAIL"
+    },
+    {
+        "id": 1198,
+        "name": "Bottes en bronze",
+        "key": "item_bronze_greaves",
+        "var_name": "BRONZE_GREAVES"
+    },
+    {
+        "id": 1199,
+        "name": "Changer les composants de la potion",
+        "key": "item_change_gender_potion",
+        "var_name": "CHANGE_GENDER_POTION"
+    },
+    {
+        "id": 1200,
+        "name": "Petit blaster",
+        "key": "item_miniblaster",
+        "var_name": "MINIBLASTER"
+    },
+    {
+        "id": 1201,
+        "name": "Blaster",
+        "key": "item_blaster",
+        "var_name": "BLASTER"
+    },
+    {
+        "id": 1202,
+        "name": "Pomme",
+        "key": "item_apple",
+        "var_name": "APPLE"
+    },
+    {
+        "id": 1203,
+        "name": "Arbalète",
+        "key": "item_minicrossbow",
+        "var_name": "MINICROSSBOW"
+    },
+    {
+        "id": 1204,
+        "name": "Revolver",
+        "key": "item_revolver",
+        "var_name": "REVOLVER"
+    },
+    {
+        "id": 1205,
+        "name": "Batterie plasma",
+        "key": "item_blasterenergy",
+        "var_name": "BLASTERENERGY"
+    },
+    {
+        "id": 1206,
+        "name": "Cartouches de fusil de chasse",
+        "key": "item_blasterpoweredenergy",
+        "var_name": "BLASTERPOWEREDENERGY"
+    },
+    {
+        "id": 1207,
+        "name": "Balles",
+        "key": "item_bullet",
+        "var_name": "BULLET"
+    },
+    {
+        "id": 1208,
+        "name": "Casque en bois",
+        "key": "item_wooden_helmet",
+        "var_name": "WOODEN_HELMET"
+    },
+    {
+        "id": 1209,
+        "name": "Assiette en bois",
+        "key": "item_wooden_chainmail",
+        "var_name": "WOODEN_CHAINMAIL"
+    },
+    {
+        "id": 1210,
+        "name": "Casque cosmo",
+        "key": "item_cosmo_helmet",
+        "var_name": "COSMO_HELMET"
+    },
+    {
+        "id": 1211,
+        "name": "Oeuf",
+        "key": "item_egg",
+        "var_name": "EGG"
+    },
+    {
+        "id": 1212,
+        "name": "Fusil à pompe",
+        "key": "item_shootgun",
+        "var_name": "SHOOTGUN"
+    },
+    {
+        "id": 1213,
+        "name": "Potion de téléportation au hasard",
+        "key": "item_change_position_potion",
+        "var_name": "CHANGE_POSITION_POTION"
+    },
+    {
+        "id": 1214,
+        "name": "Potion d'éclairage",
+        "key": "item_light_potion",
+        "var_name": "LIGHT_POTION"
+    },
+    {
+        "id": 1215,
+        "name": "Bottes en bois",
+        "key": "item_wooden_greaves",
+        "var_name": "WOODEN_GREAVES"
+    },
+    {
+        "id": 1216,
+        "name": "Cuir de mouton",
+        "key": "item_leather_sheep",
+        "var_name": "LEATHER_SHEEP"
+    },
+    {
+        "id": 1217,
+        "name": "Poulet à plumes",
+        "key": "item_feather_chicken",
+        "var_name": "FEATHER_CHICKEN"
+    },
+    {
+        "id": 1218,
+        "name": "Oeuf frit",
+        "key": "item_fried_egg",
+        "var_name": "FRIED_EGG"
+    },
+    {
+        "id": 1219,
+        "name": "Poisson crue",
+        "key": "item_meat_fish",
+        "var_name": "MEAT_FISH"
+    },
+    {
+        "id": 1220,
+        "name": "Poisson frit",
+        "key": "item_roast_fish",
+        "var_name": "ROAST_FISH"
+    },
+    {
+        "id": 1221,
+        "name": "Chapeau de pirate",
+        "key": "item_iron_pirate_helmet",
+        "var_name": "PIRATE_HELMET"
+    },
+    {
+        "id": 1222,
+        "name": "Veste de pirate",
+        "key": "item_iron_pirate_body",
+        "var_name": "PIRATE_JACKET"
+    },
+    {
+        "id": 1223,
+        "name": "Bottes de pirate",
+        "key": "item_iron_pirate_legs",
+        "var_name": "PIRATE_SKIRT"
+    },
+    {
+        "id": 1224,
+        "name": "Casque de dragon",
+        "key": "item_iron_dragon_helmet",
+        "var_name": "DRAGON_HELMET"
+    },
+    {
+        "id": 1225,
+        "name": "Damzan's Eagle",
+        "key": "item_damzan_eagle",
+        "var_name": "DAMZAN_EAGLE"
+    },
+    {
+        "id": 1226,
+        "name": "Masque de cheval",
+        "key": "item_horse_mask",
+        "var_name": "HORSE_MASK"
+    },
+    {
+        "id": 1227,
+        "name": "Capacité de Force",
+        "key": "item_rude_mace",
+        "var_name": "RUDE_MACE"
+    },
+    {
+        "id": 1228,
+        "name": "Levée de soleil sanglant Katana",
+        "key": "item_bloody_sunrise_katana",
+        "var_name": "BLOODY_SUNRISE_KATANA"
+    },
+    {
+        "id": 1229,
+        "name": "Chapeau Haut de Forme",
+        "key": "item_bowler_hat",
+        "var_name": "BOWLER_HAT"
+    },
+    {
+        "id": 1230,
+        "name": "Casque de la Force Spatiale",
+        "key": "item_space_marine_helmet",
+        "var_name": "SPACE_MARINE_HELMET"
+    },
+    {
+        "id": 1231,
+        "name": "Plastron de la Force Spatiale",
+        "key": "item_space_marine_chestplate",
+        "var_name": "SPACE_MARINE_CHESTPLATE"
+    },
+    {
+        "id": 1232,
+        "name": "Bottes de la Force Spatiale",
+        "key": "item_space_marine_boots",
+        "var_name": "SPACE_MARINE_GREAVES"
+    },
+    {
+        "id": 1233,
+        "name": "Bâtons de dynamite",
+        "key": "item_sticky_dynamite",
+        "var_name": "STICKY_DYNAMITE"
+    },
+    {
+        "id": 1234,
+        "name": "Faux de la mort",
+        "key": "item_scythe",
+        "var_name": "SCYTHE"
+    },
+    {
+        "id": 1235,
+        "name": "Lance-flammes",
+        "key": "item_flamethrower",
+        "var_name": "FLAMETHROWER"
+    },
+    {
+        "id": 1236,
+        "name": "Alligator",
+        "key": "item_alligator",
+        "var_name": "ALLIGATOR"
+    },
+    {
+        "id": 1237,
+        "name": "Cartouche de carburant",
+        "key": "item_fuel_canister",
+        "var_name": "FUEL_FLAMETHROWER"
+    },
+    {
+        "id": 1238,
+        "name": "Casque Anaptanium",
+        "key": "item_anaptanium_helmet",
+        "var_name": "ANAPTAN_HELMET"
+    },
+    {
+        "id": 1239,
+        "name": "Plastron Anaptanium",
+        "key": "item_anaptanium_chestplate",
+        "var_name": "ANAPTAN_CHAINMAIL"
+    },
+    {
+        "id": 1240,
+        "name": "Bottes Anaptanium",
+        "key": "item_anaptanium_boots",
+        "var_name": "ANAPTAN_GREAVES"
+    },
+    {
+        "id": 1241,
+        "name": "Chandelle d’Ombre",
+        "key": "item_stick_shadow",
+        "var_name": "STICK_SHADOW"
+    }
+]

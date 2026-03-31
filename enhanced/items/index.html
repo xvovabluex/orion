@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orion Enhanced | ItemsBase</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-area">
+                <h1>ORION ENHANCED <span>ITEMS</span></h1>
+                <p id="stats">Инициализация данных...</p>
+            </div>
+            
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Поиск по имени, ID или переменной...">
+                <select id="langSelect">
+                    <option value="RUS">Русский (RUS)</option>
+                    <option value="ENG">English (ENG)</option>
+                    <option value="ZH">Chinese (ZH)</option>
+                    <option value="TI">Thai (TI)</option>
+                    <option value="ES">Spanish (ES)</option>
+                    <option value="FR">French (FR)</option>
+                    <option value="VI">Vietnamese (VI)</option>
+                </select>
+            </div>
+        </header>
+
+        <main id="itemsGrid" class="items-grid"></main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

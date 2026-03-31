@@ -1,0 +1,2378 @@
+[
+    {
+        "id": 4,
+        "name": "Stone Wall",
+        "key": "wall_stone",
+        "var_name": "WALL_STONE"
+    },
+    {
+        "id": 5,
+        "name": "Dirt Wall",
+        "key": "wall_dirt",
+        "var_name": "WALL_DIRT"
+    },
+    {
+        "id": 6,
+        "name": "Wooden Wall",
+        "key": "wall_wood",
+        "var_name": "WALL_WOOD"
+    },
+    {
+        "id": 7,
+        "name": "Plank Wall",
+        "key": "wall_planked",
+        "var_name": "WALL_PLANKED"
+    },
+    {
+        "id": 8,
+        "name": "Brick Wall",
+        "key": "wall_brick",
+        "var_name": "WALL_BRICK"
+    },
+    {
+        "id": 9,
+        "name": "Stone Brick Wall",
+        "key": "wall_stone_brick",
+        "var_name": "WALL_STONE_BRICK"
+    },
+    {
+        "id": 10,
+        "name": "Glass Wall",
+        "key": "wall_glass",
+        "var_name": "WALL_GLASS"
+    },
+    {
+        "id": 11,
+        "name": "Moss Stone Brick Wall",
+        "key": "wall_moss_stone_brick",
+        "var_name": "WALL_MOSS_STONE_BRICK"
+    },
+    {
+        "id": 12,
+        "name": "Mystic Wall",
+        "key": "wall_mystic_stone_brick",
+        "var_name": "WALL_MYSTIC_STONE_BRICK"
+    },
+    {
+        "id": 13,
+        "name": "Obsidian Wall",
+        "key": "wall_obsidian",
+        "var_name": "WALL_OBSIDIAN"
+    },
+    {
+        "id": 14,
+        "name": "Red Glass Wall",
+        "key": "wall_glass_blue",
+        "var_name": "WALL_GLASS_BLUE"
+    },
+    {
+        "id": 15,
+        "name": "Green Glass Wall",
+        "key": "wall_glass_red",
+        "var_name": "WALL_GLASS_RED"
+    },
+    {
+        "id": 16,
+        "name": "White Brick Wall",
+        "key": "wall_white_brick",
+        "var_name": "WALL_WHITE_BRICK"
+    },
+    {
+        "id": 17,
+        "name": "Sheathing Plank Wall",
+        "key": "wall_wood_planks",
+        "var_name": "WALL_WOOD_PLANKS"
+    },
+    {
+        "id": 18,
+        "name": "Metal Wall",
+        "key": "wall_metal",
+        "var_name": "WALL_METAL"
+    },
+    {
+        "id": 19,
+        "name": "Bronze Wall",
+        "key": "wall_bronze",
+        "var_name": "WALL_BRONZE"
+    },
+    {
+        "id": 20,
+        "name": "Gold Wall",
+        "key": "wall_gold",
+        "var_name": "WALL_GOLD"
+    },
+    {
+        "id": 21,
+        "name": "Solidium Wall",
+        "key": "wall_techno",
+        "var_name": "WALL_TECHNO"
+    },
+    {
+        "id": 22,
+        "name": "Fence",
+        "key": "wall_fence",
+        "var_name": "WALL_FENCE"
+    },
+    {
+        "id": 23,
+        "name": "Moss Metal Wall",
+        "key": "wall_moss_metal_brick",
+        "var_name": "WALL_MOSS_METAL_BRICK"
+    },
+    {
+        "id": 24,
+        "name": "Cage Wall",
+        "key": "wall_designer_cage",
+        "var_name": "WALL_DESIGNER_CAGE"
+    },
+    {
+        "id": 25,
+        "name": "Black Wall",
+        "key": "wall_designer_black",
+        "var_name": "WALL_DESIGNER_BLACK"
+    },
+    {
+        "id": 26,
+        "name": "White Wall",
+        "key": "wall_designer_white",
+        "var_name": "WALL_DESIGNER_WHITE"
+    },
+    {
+        "id": 27,
+        "name": "Red Wall",
+        "key": "wall_designer_red",
+        "var_name": "WALL_DESIGNER_RED"
+    },
+    {
+        "id": 28,
+        "name": "Green Wall",
+        "key": "wall_designer_green",
+        "var_name": "WALL_DESIGNER_GREEN"
+    },
+    {
+        "id": 29,
+        "name": "Blue Wall",
+        "key": "wall_designer_blue",
+        "var_name": "WALL_DESIGNER_BLUE"
+    },
+    {
+        "id": 30,
+        "name": "Yellow Wall",
+        "key": "wall_designer_yellow",
+        "var_name": "WALL_DESIGNER_YELLOW"
+    },
+    {
+        "id": 32,
+        "name": "Door",
+        "key": "block_wood_door",
+        "var_name": "WOOD_DOOR"
+    },
+    {
+        "id": 33,
+        "name": "Dwarf Door",
+        "key": "block_gnome_door",
+        "var_name": "GNOME_DOOR"
+    },
+    {
+        "id": 34,
+        "name": "Trapdoor",
+        "key": "block_wood_trapdoor",
+        "var_name": "WOOD_TRAPDOOR"
+    },
+    {
+        "id": 35,
+        "name": "Workbench",
+        "key": "block_workbench",
+        "var_name": "WORKBENCH"
+    },
+    {
+        "id": 36,
+        "name": "Furnace",
+        "key": "block_furnace",
+        "var_name": "FURNACE"
+    },
+    {
+        "id": 37,
+        "name": "Anvil",
+        "key": "block_anvil",
+        "var_name": "ANVIL"
+    },
+    {
+        "id": 38,
+        "name": "Alchemist Table",
+        "key": "block_alchemical_table",
+        "var_name": "ALCHEMICAL_TABLE"
+    },
+    {
+        "id": 39,
+        "name": "Bed",
+        "key": "block_bed",
+        "var_name": "BED"
+    },
+    {
+        "id": 41,
+        "name": "Ladder",
+        "key": "block_ladder",
+        "var_name": "LADDER"
+    },
+    {
+        "id": 42,
+        "name": "Torch",
+        "key": "block_torch",
+        "var_name": "TORCH"
+    },
+    {
+        "id": 43,
+        "name": "Faint Torch",
+        "key": "block_small_torch",
+        "var_name": "SMALL_TORCH"
+    },
+    {
+        "id": 44,
+        "name": "Small Picture",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[0]"
+    },
+    {
+        "id": 45,
+        "name": "Small Picture",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[1]"
+    },
+    {
+        "id": 46,
+        "name": "Small Picture",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[2]"
+    },
+    {
+        "id": 47,
+        "name": "Small Picture",
+        "key": "block_small_picture",
+        "var_name": "SMALL_PICTURES[3]"
+    },
+    {
+        "id": 48,
+        "name": "Medium Picture",
+        "key": "block_medium_picture",
+        "var_name": "MEDIUM_PICTURES[0]"
+    },
+    {
+        "id": 49,
+        "name": "Medium Picture",
+        "key": "block_medium_picture",
+        "var_name": "MEDIUM_PICTURES[1]"
+    },
+    {
+        "id": 50,
+        "name": "Medium Picture",
+        "key": "block_medium_picture",
+        "var_name": "MEDIUM_PICTURES[2]"
+    },
+    {
+        "id": 51,
+        "name": "Large Picture",
+        "key": "block_big_picture",
+        "var_name": "BIG_PICTURES[0]"
+    },
+    {
+        "id": 52,
+        "name": "Large Picture",
+        "key": "block_big_picture",
+        "var_name": "BIG_PICTURES[1]"
+    },
+    {
+        "id": 53,
+        "name": "Chair",
+        "key": "block_chair",
+        "var_name": "CHAIR"
+    },
+    {
+        "id": 54,
+        "name": "Table",
+        "key": "block_table",
+        "var_name": "TABLE"
+    },
+    {
+        "id": 55,
+        "name": "Bookcase",
+        "key": "block_bookcase",
+        "var_name": "BOOKCASE"
+    },
+    {
+        "id": 56,
+        "name": "Chandelier",
+        "key": "block_chandelier",
+        "var_name": "CHANDELIER"
+    },
+    {
+        "id": 62,
+        "name": "Stone Brick Plate",
+        "key": "block_stone_brick_plate",
+        "var_name": "STONE_BRICK_PLATE"
+    },
+    {
+        "id": 67,
+        "name": "Letoch",
+        "key": "block_letoch",
+        "var_name": "LETOCH"
+    },
+    {
+        "id": 76,
+        "name": "Obsidian Plate",
+        "key": "block_obsidian_plate",
+        "var_name": "OBSIDIAN_PLATE"
+    },
+    {
+        "id": 77,
+        "name": "Burner",
+        "key": "block_burner",
+        "var_name": "BURNER"
+    },
+    {
+        "id": 78,
+        "name": "Fire Roach Eggs",
+        "key": "block_slug_eggs",
+        "var_name": "SLUG_EGGS"
+    },
+    {
+        "id": 82,
+        "name": "Ancient Computer",
+        "key": "block_book_shadows",
+        "var_name": "BOOK_SHADOWS"
+    },
+    {
+        "id": 84,
+        "name": "Skulls",
+        "key": "block_skulls",
+        "var_name": "GARGOYLE"
+    },
+    {
+        "id": 86,
+        "name": "Sign",
+        "key": "block_marker",
+        "var_name": "MARKER"
+    },
+    {
+        "id": 87,
+        "name": "Gold Bed",
+        "key": "block_great_bed",
+        "var_name": "GREAT_BED"
+    },
+    {
+        "id": 88,
+        "name": "Gold Chair",
+        "key": "block_great_chair",
+        "var_name": "GREAT_CHAIR"
+    },
+    {
+        "id": 89,
+        "name": "Gold Table",
+        "key": "block_great_table",
+        "var_name": "GREAT_TABLE"
+    },
+    {
+        "id": 90,
+        "name": "3d Printer 3000",
+        "key": "block_shop_exchange",
+        "var_name": "SHOP_EXCHANGE"
+    },
+    {
+        "id": 91,
+        "name": "Black Banner",
+        "key": "block_banner_black",
+        "var_name": "BANNER_BLACK"
+    },
+    {
+        "id": 92,
+        "name": "Green Banner",
+        "key": "block_banner_green",
+        "var_name": "BANNER_GREEN"
+    },
+    {
+        "id": 93,
+        "name": "Red Banner",
+        "key": "block_banner_red",
+        "var_name": "BANNER_RED"
+    },
+    {
+        "id": 94,
+        "name": "Bunch of Roses",
+        "key": "block_bouquet_roses",
+        "var_name": "BOUQUET_ROSES"
+    },
+    {
+        "id": 95,
+        "name": "Large Bouquet",
+        "key": "block_big_bouquet_random",
+        "var_name": "BIG_BOUQUET_RANDOM"
+    },
+    {
+        "id": 98,
+        "name": "Orange Banner",
+        "key": "block_banner_orange",
+        "var_name": "BANNER_ORANGE"
+    },
+    {
+        "id": 99,
+        "name": "Fenik House",
+        "key": "block_surinot_home",
+        "var_name": "SURINOT_HOME"
+    },
+    {
+        "id": 100,
+        "name": "Globunny House",
+        "key": "block_bluetail_home",
+        "var_name": "BLUETAIL_HOME"
+    },
+    {
+        "id": 101,
+        "name": "Lantern",
+        "key": "block_lamp",
+        "var_name": "LAMP"
+    },
+    {
+        "id": 102,
+        "name": "Blue Banner",
+        "key": "block_banner_blue",
+        "var_name": "BANNER_BLUE"
+    },
+    {
+        "id": 103,
+        "name": "Purple Banner",
+        "key": "block_banner_purple",
+        "var_name": "BANNER_PURPLE"
+    },
+    {
+        "id": 104,
+        "name": "White Banner",
+        "key": "block_banner_white",
+        "var_name": "BANNER_WHITE"
+    },
+    {
+        "id": 106,
+        "name": "White Brick Plate",
+        "key": "block_white_brick_plate",
+        "var_name": "WHITE_BRICK_PLATE"
+    },
+    {
+        "id": 114,
+        "name": "Shop",
+        "key": "block_shop",
+        "var_name": "SHOP"
+    },
+    {
+        "id": 115,
+        "name": "Candlestick",
+        "key": "block_candelabrum",
+        "var_name": "CANDELABRUM"
+    },
+    {
+        "id": 117,
+        "name": "Metal Plate",
+        "key": "block_metal_plate",
+        "var_name": "METAL_PLATE"
+    },
+    {
+        "id": 118,
+        "name": "Spikes Trap",
+        "key": "block_spikes_trap",
+        "var_name": "SPIKES_TRAP"
+    },
+    {
+        "id": 119,
+        "name": "Saw Trap",
+        "key": "block_saw_trap",
+        "var_name": "SAW_TRAP"
+    },
+    {
+        "id": 120,
+        "name": "Fire Trap",
+        "key": "block_fire_trap",
+        "var_name": "FIRE_TRAP"
+    },
+    {
+        "id": 121,
+        "name": "Fireball Trap",
+        "key": "block_fireball_trap",
+        "var_name": "FIREBALL_TRAP"
+    },
+    {
+        "id": 122,
+        "name": "Arrow Trap",
+        "key": "block_arrow_trap",
+        "var_name": "ARROW_TRAP"
+    },
+    {
+        "id": 125,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[0]"
+    },
+    {
+        "id": 126,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[1]"
+    },
+    {
+        "id": 127,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[2]"
+    },
+    {
+        "id": 128,
+        "name": "Totem",
+        "key": "block_totem",
+        "var_name": "TOTEMS[3]"
+    },
+    {
+        "id": 130,
+        "name": "Energy Beam",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_BLUE"
+    },
+    {
+        "id": 131,
+        "name": "Energy Beam",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_GREEN"
+    },
+    {
+        "id": 132,
+        "name": "Energy Beam",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_RED"
+    },
+    {
+        "id": 133,
+        "name": "Energy Beam",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_ORANGE"
+    },
+    {
+        "id": 134,
+        "name": "Energy Beam",
+        "key": "block_energy_beam",
+        "var_name": "ENERGY_BEAM_PURPLE"
+    },
+    {
+        "id": 135,
+        "name": "F-Dog Mod. B-2",
+        "key": "block_mechanical_guard",
+        "var_name": "MECHANICAL_GUARD"
+    },
+    {
+        "id": 138,
+        "name": "Med Station",
+        "key": "block_workshop",
+        "var_name": "WORKSHOP"
+    },
+    {
+        "id": 139,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[0]"
+    },
+    {
+        "id": 140,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[1]"
+    },
+    {
+        "id": 141,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[2]"
+    },
+    {
+        "id": 142,
+        "name": "Iron Bed",
+        "key": "block_iron_bed",
+        "var_name": "IRON_BED"
+    },
+    {
+        "id": 143,
+        "name": "Iron Chandelier",
+        "key": "block_iron_chandelier_small",
+        "var_name": "IRON_CHANDELIER_SMALL"
+    },
+    {
+        "id": 144,
+        "name": "Large Gold Chandelier",
+        "key": "block_iron_chandelier",
+        "var_name": "IRON_CHANDELIER"
+    },
+    {
+        "id": 145,
+        "name": "Iron Door",
+        "key": "block_iron_door",
+        "var_name": "IRON_DOOR"
+    },
+    {
+        "id": 146,
+        "name": "Iron Ladder",
+        "key": "block_iron_ladder",
+        "var_name": "IRON_LADDER"
+    },
+    {
+        "id": 149,
+        "name": "Iron Chair",
+        "key": "block_iron_chair",
+        "var_name": "IRON_CHAIR"
+    },
+    {
+        "id": 150,
+        "name": "Iron Table",
+        "key": "block_iron_table",
+        "var_name": "IRON_TABLE"
+    },
+    {
+        "id": 151,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "GARLANDS"
+    },
+    {
+        "id": 152,
+        "name": "Scarecrow",
+        "key": "block_christmas_tree",
+        "var_name": "CHRISTMAS_TREE"
+    },
+    {
+        "id": 153,
+        "name": "Slot Machine",
+        "key": "block_big_christmas_tree",
+        "var_name": "BIG_CHRISTMAS_TREE"
+    },
+    {
+        "id": 158,
+        "name": "Column",
+        "key": "block_pillar",
+        "var_name": "PILLAR"
+    },
+    {
+        "id": 159,
+        "name": "Entablature",
+        "key": "block_statue",
+        "var_name": "STATUE"
+    },
+    {
+        "id": 160,
+        "name": "King's Throne",
+        "key": "block_throne",
+        "var_name": "THRONE"
+    },
+    {
+        "id": 161,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[3]"
+    },
+    {
+        "id": 162,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "CHALLENGE_PICTURES[4]"
+    },
+    {
+        "id": 163,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "SLIDING_PLATE_TRAP"
+    },
+    {
+        "id": 165,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R1"
+    },
+    {
+        "id": 167,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L1"
+    },
+    {
+        "id": 168,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T1"
+    },
+    {
+        "id": 170,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T2"
+    },
+    {
+        "id": 171,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T3"
+    },
+    {
+        "id": 172,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_T4"
+    },
+    {
+        "id": 173,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R2"
+    },
+    {
+        "id": 174,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L2"
+    },
+    {
+        "id": 175,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R3"
+    },
+    {
+        "id": 176,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L3"
+    },
+    {
+        "id": 177,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R4"
+    },
+    {
+        "id": 178,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L4"
+    },
+    {
+        "id": 179,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R5"
+    },
+    {
+        "id": 180,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L5"
+    },
+    {
+        "id": 181,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R6"
+    },
+    {
+        "id": 182,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L6"
+    },
+    {
+        "id": 183,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R7"
+    },
+    {
+        "id": 184,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L7"
+    },
+    {
+        "id": 185,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_R8"
+    },
+    {
+        "id": 186,
+        "name": "Branch Tree",
+        "key": "block_branch_tree_small",
+        "var_name": "BRANCH_TREE_SMALL_L8"
+    },
+    {
+        "id": 188,
+        "name": "Solidium Bed",
+        "key": "block_techno_bed",
+        "var_name": "TECHNO_BED"
+    },
+    {
+        "id": 189,
+        "name": "Solidium Chair",
+        "key": "block_techno_chair",
+        "var_name": "TECHNO_CHAIR"
+    },
+    {
+        "id": 190,
+        "name": "Gold Door",
+        "key": "block_gold_door",
+        "var_name": "GOLD_DOOR"
+    },
+    {
+        "id": 191,
+        "name": "Solidium Door",
+        "key": "block_techno_door",
+        "var_name": "TECHNO_DOOR"
+    },
+    {
+        "id": 192,
+        "name": "Iron Bookcase",
+        "key": "block_bookcase_iron",
+        "var_name": "BOOKCASE_IRON"
+    },
+    {
+        "id": 193,
+        "name": "Gold Bookcase",
+        "key": "block_bookcase_gold",
+        "var_name": "BOOKCASE_GOLD"
+    },
+    {
+        "id": 194,
+        "name": "Iron Sofa",
+        "key": "block_iron_sofa",
+        "var_name": "IRON_SOFA"
+    },
+    {
+        "id": 195,
+        "name": "Gold Sofa",
+        "key": "block_great_sofa",
+        "var_name": "GREAT_SOFA"
+    },
+    {
+        "id": 196,
+        "name": "Solidium Sofa",
+        "key": "block_techno_sofa",
+        "var_name": "TECHNO_SOFA"
+    },
+    {
+        "id": 198,
+        "name": "Solidium Table",
+        "key": "block_techno_table",
+        "var_name": "TECHNO_TABLE"
+    },
+    {
+        "id": 199,
+        "name": "TV",
+        "key": "block_techno_tv",
+        "var_name": "TECHNO_TV"
+    },
+    {
+        "id": 200,
+        "name": "Techno Workbench",
+        "key": "block_techno_workbench",
+        "var_name": "TECHNO_WORKBENCH"
+    },
+    {
+        "id": 201,
+        "name": "Gold Candlestick",
+        "key": "block_big_candlestick",
+        "var_name": "BIG_CANDELSTICK"
+    },
+    {
+        "id": 202,
+        "name": "Iron Lamp",
+        "key": "block_iron_lamp",
+        "var_name": "IRON_LAMP"
+    },
+    {
+        "id": 204,
+        "name": "Tile Plate",
+        "key": "block_tile_plate",
+        "var_name": "TILE_PLATE"
+    },
+    {
+        "id": 205,
+        "name": "Gold Plate",
+        "key": "block_gold_plate",
+        "var_name": "GOLD_PLATE"
+    },
+    {
+        "id": 206,
+        "name": "Bronze Plate",
+        "key": "block_bronze_plate",
+        "var_name": "BRONZE_PLATE"
+    },
+    {
+        "id": 207,
+        "name": "Chicken House",
+        "key": "block_chicken_house",
+        "var_name": "CHICKEN_HOUSE"
+    },
+    {
+        "id": 208,
+        "name": "Space Ship",
+        "key": "block_space_ship",
+        "var_name": "SPACE_SHIP"
+    },
+    {
+        "id": 209,
+        "name": "Window",
+        "key": "block_window",
+        "var_name": "WINDOW_DOOR"
+    },
+    {
+        "id": 210,
+        "name": "Lamp of Lighthouse",
+        "key": "lighthouse_lamp",
+        "var_name": "LIGHTHOUSE_LAMP"
+    },
+    {
+        "id": 211,
+        "name": "Aquarium",
+        "key": "block_aquarium",
+        "var_name": "AQUARIUM"
+    },
+    {
+        "id": 213,
+        "name": "TV",
+        "key": "block_tvforwall",
+        "var_name": "TVFORWALL"
+    },
+    {
+        "id": 214,
+        "name": "Arms Rack",
+        "key": "block_arms_rack",
+        "var_name": "ARMS_RACKS_SECOND"
+    },
+    {
+        "id": 215,
+        "name": "Poster Hamster in Space",
+        "key": "item_hamster_banner",
+        "var_name": "POSTER_HAMSTER"
+    },
+    {
+        "id": 216,
+        "name": "Poster Interstellar",
+        "key": "item_rocket_banner",
+        "var_name": "POSTER_ROCKET"
+    },
+    {
+        "id": 217,
+        "name": "Solidium Plate",
+        "key": "block_techno_plate",
+        "var_name": "TECHNO_PLATE"
+    },
+    {
+        "id": 219,
+        "name": "Purple Panda House",
+        "key": "block_purple_home",
+        "var_name": "PURPLE_HOME"
+    },
+    {
+        "id": 220,
+        "name": "Hero Statue",
+        "key": "block_hero_statue",
+        "var_name": "HERO_STATUE"
+    },
+    {
+        "id": 221,
+        "name": "The Book of Memories",
+        "key": "block_book_memories",
+        "var_name": "BOOK_OF_MEMORIES"
+    },
+    {
+        "id": 229,
+        "name": "The Book of Memories",
+        "key": "block_book_memories",
+        "var_name": "BOOK_OF_MEMORIES_PART2"
+    },
+    {
+        "id": 230,
+        "name": "Black Plate",
+        "key": "plate_designer_black",
+        "var_name": "PLATE_DESIGNER_BLACK"
+    },
+    {
+        "id": 231,
+        "name": "White Plate",
+        "key": "plate_designer_white",
+        "var_name": "PLATE_DESIGNER_WHITE"
+    },
+    {
+        "id": 232,
+        "name": "Red Plate",
+        "key": "plate_designer_red",
+        "var_name": "PLATE_DESIGNER_RED"
+    },
+    {
+        "id": 233,
+        "name": "Green Plate",
+        "key": "plate_designer_green",
+        "var_name": "PLATE_DESIGNER_GREEN"
+    },
+    {
+        "id": 234,
+        "name": "Blue Plate",
+        "key": "plate_designer_blue",
+        "var_name": "PLATE_DESIGNER_BLUE"
+    },
+    {
+        "id": 235,
+        "name": "Yellow Plate",
+        "key": "plate_designer_yellow",
+        "var_name": "PLATE_DESIGNER_YELLOW"
+    },
+    {
+        "id": 258,
+        "name": "Obsidian",
+        "key": "block_obsidian",
+        "var_name": "OBSIDIAN"
+    },
+    {
+        "id": 259,
+        "name": "Stone",
+        "key": "block_stone",
+        "var_name": "STONE"
+    },
+    {
+        "id": 265,
+        "name": "Iron Block",
+        "key": "block_iron_storage",
+        "var_name": "IRON_STORAGE"
+    },
+    {
+        "id": 266,
+        "name": "Gold Block",
+        "key": "block_gold_storage",
+        "var_name": "GOLD_STORAGE"
+    },
+    {
+        "id": 267,
+        "name": "Diamond Block",
+        "key": "block_diamond_storage",
+        "var_name": "DIAMOND_STORAGE"
+    },
+    {
+        "id": 268,
+        "name": "Solidium Block",
+        "key": "block_fire_iron_storage",
+        "var_name": "FIRE_IRON_STORAGE"
+    },
+    {
+        "id": 269,
+        "name": "Dirt",
+        "key": "block_dirt",
+        "var_name": "DIRT"
+    },
+    {
+        "id": 271,
+        "name": "Sand",
+        "key": "block_sand",
+        "var_name": "SAND"
+    },
+    {
+        "id": 272,
+        "name": "Clay",
+        "key": "block_clay",
+        "var_name": "CLAY"
+    },
+    {
+        "id": 273,
+        "name": "Grass",
+        "key": "block_grass",
+        "var_name": "GRASS"
+    },
+    {
+        "id": 278,
+        "name": "Red Mushroom",
+        "key": "block_red_mushroom",
+        "var_name": "RED_MUSHROOM"
+    },
+    {
+        "id": 282,
+        "name": "Wood",
+        "key": "block_wood",
+        "var_name": "WOOD"
+    },
+    {
+        "id": 283,
+        "name": "Brick",
+        "key": "block_brick",
+        "var_name": "BRICK"
+    },
+    {
+        "id": 287,
+        "name": "Glass",
+        "key": "block_glass",
+        "var_name": "GLASS"
+    },
+    {
+        "id": 313,
+        "name": "Cobweb",
+        "key": "block_web",
+        "var_name": "WEB"
+    },
+    {
+        "id": 314,
+        "name": "Wool",
+        "key": "block_fleece",
+        "var_name": "FLEECE"
+    },
+    {
+        "id": 315,
+        "name": "Blue Coral",
+        "key": "block_blue_coral",
+        "var_name": "BLUE_CORAL"
+    },
+    {
+        "id": 316,
+        "name": "Green Coral",
+        "key": "block_green_coral",
+        "var_name": "GREEN_CORAL"
+    },
+    {
+        "id": 317,
+        "name": "Stone Brick",
+        "key": "block_stone_brick",
+        "var_name": "STONE_BRICK"
+    },
+    {
+        "id": 320,
+        "name": "Witch Mushroom",
+        "key": "block_witches_mushroom",
+        "var_name": "WITCHES_MUSHROOM"
+    },
+    {
+        "id": 321,
+        "name": "Firebloom",
+        "key": "block_fireflower",
+        "var_name": "FIREFLOWER"
+    },
+    {
+        "id": 322,
+        "name": "Yellow Mushroom",
+        "key": "block_yellow_mushroom",
+        "var_name": "GELINEYA"
+    },
+    {
+        "id": 324,
+        "name": "Wary Light",
+        "key": "block_peresvet",
+        "var_name": "PERESVET"
+    },
+    {
+        "id": 325,
+        "name": "Cobblestone",
+        "key": "block_cobblestone",
+        "var_name": "COBBLESTONE"
+    },
+    {
+        "id": 329,
+        "name": "Moss Stone Brick",
+        "key": "block_moss_stone_brick",
+        "var_name": "MOSS_STONE_BRICK"
+    },
+    {
+        "id": 331,
+        "name": "Obsidian Brick",
+        "key": "block_obsidian_brick",
+        "var_name": "OBSIDIAN_BRICK"
+    },
+    {
+        "id": 335,
+        "name": "Fire Roach Slime",
+        "key": "block_slug",
+        "var_name": "SLUG"
+    },
+    {
+        "id": 337,
+        "name": "Louver",
+        "key": "block_louver",
+        "var_name": "LOUVER"
+    },
+    {
+        "id": 339,
+        "name": "Skulls",
+        "key": "block_skulls",
+        "var_name": "SKULLS"
+    },
+    {
+        "id": 352,
+        "name": "Red Glass",
+        "key": "block_glass_blue",
+        "var_name": "GLASS_BLUE"
+    },
+    {
+        "id": 353,
+        "name": "Green Glass",
+        "key": "block_glass_red",
+        "var_name": "GLASS_RED"
+    },
+    {
+        "id": 361,
+        "name": "White Brick",
+        "key": "block_white_brick",
+        "var_name": "WHITE_BRICK"
+    },
+    {
+        "id": 363,
+        "name": "Wood Plank",
+        "key": "block_wood_planks",
+        "var_name": "WOOD_PLANKS"
+    },
+    {
+        "id": 372,
+        "name": "Metal Block",
+        "key": "block_metal",
+        "var_name": "METAL"
+    },
+    {
+        "id": 422,
+        "name": "Bronze Block",
+        "key": "block_bronze_storage",
+        "var_name": "BRONZE_STORAGE"
+    },
+    {
+        "id": 443,
+        "name": "Roof",
+        "key": "block_tileroof",
+        "var_name": "TILEROOF"
+    },
+    {
+        "id": 459,
+        "name": "Moss Metal Block",
+        "key": "block_moss_metal",
+        "var_name": "MOSS_METAL_BLOCK"
+    },
+    {
+        "id": 474,
+        "name": "Blue Mushroom",
+        "key": "block_blue_mushroom",
+        "var_name": "BLUE_MUSHROOM"
+    },
+    {
+        "id": 478,
+        "name": "Cage Block",
+        "key": "tile_designer_cage",
+        "var_name": "TILE_DESIGNER_CAGE"
+    },
+    {
+        "id": 479,
+        "name": "Black Block",
+        "key": "tile_designer_black",
+        "var_name": "TILE_DESIGNER_BLACK"
+    },
+    {
+        "id": 480,
+        "name": "White Block",
+        "key": "tile_designer_white",
+        "var_name": "TILE_DESIGNER_WHITE"
+    },
+    {
+        "id": 481,
+        "name": "Red Block",
+        "key": "tile_designer_red",
+        "var_name": "TILE_DESIGNER_RED"
+    },
+    {
+        "id": 482,
+        "name": "Green Block",
+        "key": "tile_designer_green",
+        "var_name": "TILE_DESIGNER_GREEN"
+    },
+    {
+        "id": 483,
+        "name": "Blue Block",
+        "key": "tile_designer_blue",
+        "var_name": "TILE_DESIGNER_BLUE"
+    },
+    {
+        "id": 484,
+        "name": "Yellow Block",
+        "key": "tile_designer_yellow",
+        "var_name": "TILE_DESIGNER_YELLOW"
+    },
+    {
+        "id": 1024,
+        "name": "Coal",
+        "key": "item_coal",
+        "var_name": "COAL"
+    },
+    {
+        "id": 1025,
+        "name": "Iron Ore",
+        "key": "item_iron_ore",
+        "var_name": "IRON_ORE"
+    },
+    {
+        "id": 1026,
+        "name": "Gold Ore",
+        "key": "item_gold_ore",
+        "var_name": "GOLD_ORE"
+    },
+    {
+        "id": 1027,
+        "name": "Energy Crystal",
+        "key": "item_diamond",
+        "var_name": "DIAMOND"
+    },
+    {
+        "id": 1028,
+        "name": "Solidium Ore",
+        "key": "item_fire_iron_ore",
+        "var_name": "FIRE_IRON_ORE"
+    },
+    {
+        "id": 1029,
+        "name": "Iron Ingot",
+        "key": "item_iron_bar",
+        "var_name": "IRON_BAR"
+    },
+    {
+        "id": 1030,
+        "name": "Gold Ingot",
+        "key": "item_gold_bar",
+        "var_name": "GOLD_BAR"
+    },
+    {
+        "id": 1031,
+        "name": "Solidium Ingot",
+        "key": "item_fire_iron_bar",
+        "var_name": "FIRE_IRON_BAR"
+    },
+    {
+        "id": 1032,
+        "name": "Resin",
+        "key": "item_resin",
+        "var_name": "RESIN"
+    },
+    {
+        "id": 1033,
+        "name": "Rose Seed",
+        "key": "item_rose_seed",
+        "var_name": "ROSE_SEED"
+    },
+    {
+        "id": 1034,
+        "name": "Tulip Seed",
+        "key": "item_tulpan_seed",
+        "var_name": "TULPAN_SEED"
+    },
+    {
+        "id": 1035,
+        "name": "Watering Can",
+        "key": "item_bailer",
+        "var_name": "BAILER"
+    },
+    {
+        "id": 1036,
+        "name": "Hoe",
+        "key": "item_picker",
+        "var_name": "PICKER"
+    },
+    {
+        "id": 1037,
+        "name": "Shears",
+        "key": "item_shears",
+        "var_name": "SHEARS"
+    },
+    {
+        "id": 1038,
+        "name": "Empty Bucket",
+        "key": "item_empty_bucket",
+        "var_name": "EMPTY_BUCKET"
+    },
+    {
+        "id": 1039,
+        "name": "Bucket with Water",
+        "key": "item_bucket_with_water",
+        "var_name": "BUCKET_WITH_WATER"
+    },
+    {
+        "id": 1040,
+        "name": "Bucket with Magma",
+        "key": "item_bucket_with_magma",
+        "var_name": "BUCKET_WITH_MAGMA"
+    },
+    {
+        "id": 1041,
+        "name": "Empty Bottle",
+        "key": "item_empty_bottle",
+        "var_name": "EMPTY_BOTTLE"
+    },
+    {
+        "id": 1042,
+        "name": "Bottle of Water",
+        "key": "item_bottle_with_water",
+        "var_name": "BOTTLE_WITH_WATER"
+    },
+    {
+        "id": 1043,
+        "name": "Stone Shovel",
+        "key": "item_stone_shovel",
+        "var_name": "STONE_SHOVEL"
+    },
+    {
+        "id": 1044,
+        "name": "Iron Shovel",
+        "key": "item_iron_shovel",
+        "var_name": "IRON_SHOVEL"
+    },
+    {
+        "id": 1045,
+        "name": "Golden Shovel",
+        "key": "item_gold_shovel",
+        "var_name": "GOLD_SHOVEL"
+    },
+    {
+        "id": 1046,
+        "name": "Giga Drill",
+        "key": "item_diamond_shovel",
+        "var_name": "DIAMOND_SHOVEL"
+    },
+    {
+        "id": 1047,
+        "name": "Solidium Shovel",
+        "key": "item_fire_iron_shovel",
+        "var_name": "FIRE_IRON_SHOVEL"
+    },
+    {
+        "id": 1048,
+        "name": "Stone Axe",
+        "key": "item_stone_axe",
+        "var_name": "STONE_AXE"
+    },
+    {
+        "id": 1049,
+        "name": "Iron Axe",
+        "key": "item_iron_axe",
+        "var_name": "IRON_AXE"
+    },
+    {
+        "id": 1050,
+        "name": "Golden Axe",
+        "key": "item_gold_axe",
+        "var_name": "GOLD_AXE"
+    },
+    {
+        "id": 1051,
+        "name": "Chainsaw",
+        "key": "item_diamond_axe",
+        "var_name": "DIAMOND_AXE"
+    },
+    {
+        "id": 1052,
+        "name": "Solidium Axe",
+        "key": "item_fire_iron_axe",
+        "var_name": "FIRE_IRON_AXE"
+    },
+    {
+        "id": 1053,
+        "name": "Stone Hammer",
+        "key": "item_stone_hammer",
+        "var_name": "STONE_HAMMER"
+    },
+    {
+        "id": 1054,
+        "name": "Iron Hammer",
+        "key": "item_iron_hammer",
+        "var_name": "IRON_HAMMER"
+    },
+    {
+        "id": 1055,
+        "name": "Golden Hammer",
+        "key": "item_gold_hammer",
+        "var_name": "GOLD_HAMMER"
+    },
+    {
+        "id": 1056,
+        "name": "Pneumatic Hammer",
+        "key": "item_diamond_hammer",
+        "var_name": "DIAMOND_HAMMER"
+    },
+    {
+        "id": 1057,
+        "name": "Solidium Hammer",
+        "key": "item_fire_iron_hammer",
+        "var_name": "FIRE_IRON_HAMMER"
+    },
+    {
+        "id": 1058,
+        "name": "Wooden Pickaxe",
+        "key": "item_wood_pickaxe",
+        "var_name": "WOOD_PICKAXE"
+    },
+    {
+        "id": 1059,
+        "name": "Stone Pickaxe",
+        "key": "item_stone_pickaxe",
+        "var_name": "STONE_PICKAXE"
+    },
+    {
+        "id": 1060,
+        "name": "Iron Pickaxe",
+        "key": "item_iron_pickaxe",
+        "var_name": "IRON_PICKAXE"
+    },
+    {
+        "id": 1061,
+        "name": "Golden Pickaxe",
+        "key": "item_gold_pickaxe",
+        "var_name": "GOLD_PICKAXE"
+    },
+    {
+        "id": 1062,
+        "name": "Giga Drill",
+        "key": "item_diamond_pickaxe",
+        "var_name": "DIAMOND_PICKAXE"
+    },
+    {
+        "id": 1063,
+        "name": "Solidium Pickaxe",
+        "key": "item_fire_iron_pickaxe",
+        "var_name": "FIRE_IRON_PICKAXE"
+    },
+    {
+        "id": 1064,
+        "name": "Cudgel",
+        "key": "item_stone_sword",
+        "var_name": "STONE_SWORD"
+    },
+    {
+        "id": 1065,
+        "name": "Iron Sword",
+        "key": "item_iron_sword",
+        "var_name": "IRON_SWORD"
+    },
+    {
+        "id": 1066,
+        "name": "Golden Sword",
+        "key": "item_gold_sword",
+        "var_name": "GOLD_SWORD"
+    },
+    {
+        "id": 1067,
+        "name": "Obsidian Sword",
+        "key": "item_diamond_sword",
+        "var_name": "DIAMOND_SWORD"
+    },
+    {
+        "id": 1068,
+        "name": "Solidium Sword",
+        "key": "item_fire_iron_sword",
+        "var_name": "FIRE_IRON_SWORD"
+    },
+    {
+        "id": 1069,
+        "name": "Bow",
+        "key": "item_bow",
+        "var_name": "BOW"
+    },
+    {
+        "id": 1070,
+        "name": "Crossbow",
+        "key": "item_crossbow",
+        "var_name": "CROSSBOW"
+    },
+    {
+        "id": 1071,
+        "name": "Arrow",
+        "key": "item_arrow",
+        "var_name": "ARROW"
+    },
+    {
+        "id": 1072,
+        "name": "Bolt",
+        "key": "item_bolt",
+        "var_name": "BOLT"
+    },
+    {
+        "id": 1073,
+        "name": "Leather Helmet",
+        "key": "item_leather_helmet",
+        "var_name": "LEATHER_HELMET"
+    },
+    {
+        "id": 1074,
+        "name": "Iron Helmet",
+        "key": "item_iron_helmet",
+        "var_name": "IRON_HELMET"
+    },
+    {
+        "id": 1075,
+        "name": "Golden Helmet",
+        "key": "item_gold_helmet",
+        "var_name": "GOLD_HELMET"
+    },
+    {
+        "id": 1076,
+        "name": "Obsidian Helmet",
+        "key": "item_diamond_helmet",
+        "var_name": "DIAMOND_HELMET"
+    },
+    {
+        "id": 1077,
+        "name": "Solidium Helmet",
+        "key": "item_fire_iron_helmet",
+        "var_name": "FIRE_IRON_HELMET"
+    },
+    {
+        "id": 1078,
+        "name": "Leather Chestplate",
+        "key": "item_leather_chainmail",
+        "var_name": "LEATHER_CHAINMAIL"
+    },
+    {
+        "id": 1079,
+        "name": "Iron Chestplate",
+        "key": "item_iron_chainmail",
+        "var_name": "IRON_CHAINMAIL"
+    },
+    {
+        "id": 1080,
+        "name": "Golden Chestplate",
+        "key": "item_gold_chainmail",
+        "var_name": "GOLD_CHAINMAIL"
+    },
+    {
+        "id": 1081,
+        "name": "Obsidian Chestplate",
+        "key": "item_diamond_chainmail",
+        "var_name": "DIAMOND_CHAINMAIL"
+    },
+    {
+        "id": 1082,
+        "name": "Solidium Chestplate",
+        "key": "item_fire_iron_chainmail",
+        "var_name": "FIRE_IRON_CHAINMAIL"
+    },
+    {
+        "id": 1083,
+        "name": "Leather Boots",
+        "key": "item_leather_greaves",
+        "var_name": "LEATHER_GREAVES"
+    },
+    {
+        "id": 1084,
+        "name": "Iron Boots",
+        "key": "item_iron_greaves",
+        "var_name": "IRON_GREAVES"
+    },
+    {
+        "id": 1085,
+        "name": "Golden Boots",
+        "key": "item_gold_greaves",
+        "var_name": "GOLD_GREAVES"
+    },
+    {
+        "id": 1086,
+        "name": "Obsidian Boots",
+        "key": "item_diamond_greaves",
+        "var_name": "DIAMOND_GREAVES"
+    },
+    {
+        "id": 1087,
+        "name": "Solidium Boots",
+        "key": "item_fire_iron_greaves",
+        "var_name": "FIRE_IRON_GREAVES"
+    },
+    {
+        "id": 1088,
+        "name": "Healing Potion",
+        "key": "item_healing_potion",
+        "var_name": "HEALING_POTION"
+    },
+    {
+        "id": 1089,
+        "name": "Invisibility Potion",
+        "key": "item_invisibility_potion",
+        "var_name": "INVISIBILITY_POTION"
+    },
+    {
+        "id": 1090,
+        "name": "Gills Potion",
+        "key": "item_gills_potion",
+        "var_name": "GILLS_POTION"
+    },
+    {
+        "id": 1091,
+        "name": "Levitation Potion",
+        "key": "item_levitation_potion",
+        "var_name": "LEVITATION_POTION"
+    },
+    {
+        "id": 1092,
+        "name": "Antidote",
+        "key": "item_antidote_potion",
+        "var_name": "ANTIDOTE_POTION"
+    },
+    {
+        "id": 1093,
+        "name": "Sword of Abyss",
+        "key": "item_demonic_sword",
+        "var_name": "DEMONIC_SWORD"
+    },
+    {
+        "id": 1094,
+        "name": "Night Cap",
+        "key": "item_hood",
+        "var_name": "HOOD"
+    },
+    {
+        "id": 1095,
+        "name": "Galaxy Imperator Crown",
+        "key": "item_grindol_crown",
+        "var_name": "GRINDOL_CROWN"
+    },
+    {
+        "id": 1096,
+        "name": "Light Sword",
+        "key": "item_sword_depths",
+        "var_name": "SWORD_DEPTHS"
+    },
+    {
+        "id": 1097,
+        "name": "Tyrant Helmet",
+        "key": "item_zartane_helmet",
+        "var_name": "ZARTANE_HELMET"
+    },
+    {
+        "id": 1098,
+        "name": "Tyrant Chestplate",
+        "key": "item_zartane_chainmail",
+        "var_name": "ZARTANE_CHAINMAIL"
+    },
+    {
+        "id": 1099,
+        "name": "Tyrant Boots",
+        "key": "item_zartane_greaves",
+        "var_name": "ZARTANE_GREAVES"
+    },
+    {
+        "id": 1100,
+        "name": "Gillweed Seeds",
+        "key": "item_gilliweed_seed",
+        "var_name": "GILLIWEED_SEED"
+    },
+    {
+        "id": 1101,
+        "name": "Gillweed",
+        "key": "item_gilliweed",
+        "var_name": "GILLIWEED"
+    },
+    {
+        "id": 1102,
+        "name": "Essence of Life",
+        "key": "item_essence_live",
+        "var_name": "ESSENCE_LIVE"
+    },
+    {
+        "id": 1103,
+        "name": "Slime Jellyfish",
+        "key": "item_invisibility_powder",
+        "var_name": "INVISIBILITY_POWDER"
+    },
+    {
+        "id": 1104,
+        "name": "Geliney Seed",
+        "key": "item_gelineya_seed",
+        "var_name": "GELINEYA_SEED"
+    },
+    {
+        "id": 1105,
+        "name": "Letoch Seed",
+        "key": "item_letoch_seed",
+        "var_name": "LETOCH_SEED"
+    },
+    {
+        "id": 1106,
+        "name": "Raw Meat",
+        "key": "item_meat",
+        "var_name": "MEAT"
+    },
+    {
+        "id": 1107,
+        "name": "Fried Meat",
+        "key": "item_roast",
+        "var_name": "ROAST"
+    },
+    {
+        "id": 1108,
+        "name": "Empty Cage",
+        "key": "item_empty_cage",
+        "var_name": "EMPTY_CAGE"
+    },
+    {
+        "id": 1109,
+        "name": "Cage with Chicken",
+        "key": "item_cage_with_hare",
+        "var_name": "CAGE_WITH_HARE"
+    },
+    {
+        "id": 1110,
+        "name": "Path Ring",
+        "key": "item_horn_gargoyle",
+        "var_name": "HORN_GARGOYLE"
+    },
+    {
+        "id": 1111,
+        "name": "Teleportation Tab",
+        "key": "item_scroll_teleport",
+        "var_name": "SCROLL_TELEPORT"
+    },
+    {
+        "id": 1113,
+        "name": "Biker Glasses",
+        "key": "item_gnome_glasses",
+        "var_name": "GNOME_GLASSES"
+    },
+    {
+        "id": 1114,
+        "name": "Cosmo Chestplate",
+        "key": "item_scottish_jacket",
+        "var_name": "SCOTTISH_JACKET"
+    },
+    {
+        "id": 1115,
+        "name": "Cosmo Boots",
+        "key": "item_scottish_skirt",
+        "var_name": "SCOTTISH_SKIRT"
+    },
+    {
+        "id": 1116,
+        "name": "Guitar",
+        "key": "item_bagpipes",
+        "var_name": "BAGPIPES"
+    },
+    {
+        "id": 1117,
+        "name": "Cage with Fenik",
+        "key": "item_cage_with_surinot",
+        "var_name": "CAGE_WITH_SURINOT"
+    },
+    {
+        "id": 1118,
+        "name": "Speed Potion",
+        "key": "item_speed_potion",
+        "var_name": "SPEED_POTION"
+    },
+    {
+        "id": 1119,
+        "name": "Pineapple",
+        "key": "item_carrot",
+        "var_name": "CARROT"
+    },
+    {
+        "id": 1120,
+        "name": "Pineapple Seed",
+        "key": "item_carrot_seed",
+        "var_name": "CARROT_SEED"
+    },
+    {
+        "id": 1121,
+        "name": "Cabbage",
+        "key": "item_pumpkin",
+        "var_name": "PUMPKIN"
+    },
+    {
+        "id": 1122,
+        "name": "Cabbage Seed",
+        "key": "item_pumpkin_seed",
+        "var_name": "PUMPKIN_SEED"
+    },
+    {
+        "id": 1123,
+        "name": "Corn",
+        "key": "item_eggplant",
+        "var_name": "EGGPLANT"
+    },
+    {
+        "id": 1124,
+        "name": "Corn Seed",
+        "key": "item_eggplant_seed",
+        "var_name": "EGGPLANT_SEED"
+    },
+    {
+        "id": 1125,
+        "name": "Pajamas Jacket",
+        "key": "item_trader_jacket",
+        "var_name": "TRADER_JACKET"
+    },
+    {
+        "id": 1126,
+        "name": "Pajamas Pants",
+        "key": "item_trader_pants",
+        "var_name": "TRADER_PANTS"
+    },
+    {
+        "id": 1162,
+        "name": "Sword of Universe",
+        "key": "item_gromon",
+        "var_name": "GROMON"
+    },
+    {
+        "id": 1163,
+        "name": "Tyrantium",
+        "key": "item_luminary",
+        "var_name": "LUMINARY"
+    },
+    {
+        "id": 1164,
+        "name": "Key Card",
+        "key": "item_treasure_key",
+        "var_name": "TREASURE_KEY"
+    },
+    {
+        "id": 1166,
+        "name": "Metal Parts",
+        "key": "item_gear",
+        "var_name": "GEAR"
+    },
+    {
+        "id": 1167,
+        "name": "Circular Saw",
+        "key": "item_circular_saw",
+        "var_name": "CIRCULAR_SAW"
+    },
+    {
+        "id": 1168,
+        "name": "Battery",
+        "key": "item_battery",
+        "var_name": "BATTERY"
+    },
+    {
+        "id": 1169,
+        "name": "Atomic Helmet",
+        "key": "item_proto_helmet",
+        "var_name": "PROTO_HELMET"
+    },
+    {
+        "id": 1170,
+        "name": "Atomic Chestplate",
+        "key": "item_proto_chainmail",
+        "var_name": "PROTO_CHAINMAIL"
+    },
+    {
+        "id": 1171,
+        "name": "Atomic Boots",
+        "key": "item_proto_greaves",
+        "var_name": "PROTO_GREAVES"
+    },
+    {
+        "id": 1172,
+        "name": "Exterminatus",
+        "key": "item_exterminatus",
+        "var_name": "NO_VARIABLE"
+    },
+    {
+        "id": 1173,
+        "name": "Chicken Hood",
+        "key": "item_mage_head_black",
+        "var_name": "MAGE_HEAD_BLACK"
+    },
+    {
+        "id": 1174,
+        "name": "Chicken Cape",
+        "key": "item_mage_body_black",
+        "var_name": "MAGE_BODY_BLACK"
+    },
+    {
+        "id": 1175,
+        "name": "Chicken Pants",
+        "key": "item_mage_legs_black",
+        "var_name": "MAGE_LEGS_BLACK"
+    },
+    {
+        "id": 1176,
+        "name": "Dynamite",
+        "key": "item_farework",
+        "var_name": "FIREWORK"
+    },
+    {
+        "id": 1177,
+        "name": "Red Cap",
+        "key": "item_mage_head_gray",
+        "var_name": "MAGE_HEAD_GRAY"
+    },
+    {
+        "id": 1178,
+        "name": "White Shirt",
+        "key": "item_mage_body_gray",
+        "var_name": "MAGE_BODY_GRAY"
+    },
+    {
+        "id": 1179,
+        "name": "Pants",
+        "key": "item_mage_legs_gray",
+        "var_name": "MAGE_LEGS_GRAY"
+    },
+    {
+        "id": 1180,
+        "name": "Stranger's Hat",
+        "key": "item_mage_head_green",
+        "var_name": "MAGE_HEAD_GREEN"
+    },
+    {
+        "id": 1181,
+        "name": "Strange's Jacket",
+        "key": "item_mage_body_green",
+        "var_name": "MAGE_BODY_GREEN"
+    },
+    {
+        "id": 1182,
+        "name": "Stranger's Pants",
+        "key": "item_mage_legs_green",
+        "var_name": "MAGE_LEGS_GREEN"
+    },
+    {
+        "id": 1183,
+        "name": "Gas Mask",
+        "key": "item_mage_head_purple",
+        "var_name": "MAGE_HEAD_PURPLE"
+    },
+    {
+        "id": 1184,
+        "name": "Protective Suit",
+        "key": "item_mage_body_purple",
+        "var_name": "MAGE_BODY_PURPLE"
+    },
+    {
+        "id": 1185,
+        "name": "Protective Boot",
+        "key": "item_mage_legs_purple",
+        "var_name": "MAGE_LEGS_PURPLE"
+    },
+    {
+        "id": 1186,
+        "name": "Concentrated Healing Potion",
+        "key": "item_great_healing_potion",
+        "var_name": "GREAT_HEALING_POTION"
+    },
+    {
+        "id": 1188,
+        "name": "Leather",
+        "key": "item_leather",
+        "var_name": "LEATHER"
+    },
+    {
+        "id": 1189,
+        "name": "Bronze Sword",
+        "key": "item_bronze_sword",
+        "var_name": "BRONZE_SWORD"
+    },
+    {
+        "id": 1190,
+        "name": "Bronze Shovel",
+        "key": "item_bronze_shovel",
+        "var_name": "BRONZE_SHOVEL"
+    },
+    {
+        "id": 1191,
+        "name": "Bronze Axe",
+        "key": "item_bronze_axe",
+        "var_name": "BRONZE_AXE"
+    },
+    {
+        "id": 1192,
+        "name": "Bronze Hammer",
+        "key": "item_bronze_hammer",
+        "var_name": "BRONZE_HAMMER"
+    },
+    {
+        "id": 1193,
+        "name": "Bronze Pickaxe",
+        "key": "item_bronze_pickaxe",
+        "var_name": "BRONZE_PICKAXE"
+    },
+    {
+        "id": 1194,
+        "name": "Bronze Ore",
+        "key": "item_bronze_ore",
+        "var_name": "BRONZE_ORE"
+    },
+    {
+        "id": 1195,
+        "name": "Bronze Ingot",
+        "key": "item_bronze_bar",
+        "var_name": "BRONZE_BAR"
+    },
+    {
+        "id": 1196,
+        "name": "Bronze Helmet",
+        "key": "item_bronze_helmet",
+        "var_name": "BRONZE_HELMET"
+    },
+    {
+        "id": 1197,
+        "name": "Bronze Chestplate",
+        "key": "item_bronze_chainmail",
+        "var_name": "BRONZE_CHAINMAIL"
+    },
+    {
+        "id": 1198,
+        "name": "Bronze Boots",
+        "key": "item_bronze_greaves",
+        "var_name": "BRONZE_GREAVES"
+    },
+    {
+        "id": 1199,
+        "name": "Change Gender Potion",
+        "key": "item_change_gender_potion",
+        "var_name": "CHANGE_GENDER_POTION"
+    },
+    {
+        "id": 1200,
+        "name": "Mini Blaster",
+        "key": "item_miniblaster",
+        "var_name": "MINIBLASTER"
+    },
+    {
+        "id": 1201,
+        "name": "Blaster",
+        "key": "item_blaster",
+        "var_name": "BLASTER"
+    },
+    {
+        "id": 1202,
+        "name": "Apple",
+        "key": "item_apple",
+        "var_name": "APPLE"
+    },
+    {
+        "id": 1203,
+        "name": "Crossbow",
+        "key": "item_minicrossbow",
+        "var_name": "MINICROSSBOW"
+    },
+    {
+        "id": 1204,
+        "name": "Revolver",
+        "key": "item_revolver",
+        "var_name": "REVOLVER"
+    },
+    {
+        "id": 1205,
+        "name": "Plasma Battery",
+        "key": "item_blasterenergy",
+        "var_name": "BLASTERENERGY"
+    },
+    {
+        "id": 1206,
+        "name": "Shotgun Cartridge",
+        "key": "item_blasterpoweredenergy",
+        "var_name": "BLASTERPOWEREDENERGY"
+    },
+    {
+        "id": 1207,
+        "name": "Bullets",
+        "key": "item_bullet",
+        "var_name": "BULLET"
+    },
+    {
+        "id": 1208,
+        "name": "Wooden Helmet",
+        "key": "item_wooden_helmet",
+        "var_name": "WOODEN_HELMET"
+    },
+    {
+        "id": 1209,
+        "name": "Wooden Chestplate",
+        "key": "item_wooden_chainmail",
+        "var_name": "WOODEN_CHAINMAIL"
+    },
+    {
+        "id": 1210,
+        "name": "Cosmo Helmet",
+        "key": "item_cosmo_helmet",
+        "var_name": "COSMO_HELMET"
+    },
+    {
+        "id": 1211,
+        "name": "Egg",
+        "key": "item_egg",
+        "var_name": "EGG"
+    },
+    {
+        "id": 1212,
+        "name": "Shotgun",
+        "key": "item_shootgun",
+        "var_name": "SHOOTGUN"
+    },
+    {
+        "id": 1213,
+        "name": "Random Teleportation Potion",
+        "key": "item_change_position_potion",
+        "var_name": "CHANGE_POSITION_POTION"
+    },
+    {
+        "id": 1214,
+        "name": "lighting Potion",
+        "key": "item_light_potion",
+        "var_name": "LIGHT_POTION"
+    },
+    {
+        "id": 1215,
+        "name": "Wooden Boots",
+        "key": "item_wooden_greaves",
+        "var_name": "WOODEN_GREAVES"
+    },
+    {
+        "id": 1216,
+        "name": "Leather Sheep",
+        "key": "item_leather_sheep",
+        "var_name": "LEATHER_SHEEP"
+    },
+    {
+        "id": 1217,
+        "name": "Feather Chicken",
+        "key": "item_feather_chicken",
+        "var_name": "FEATHER_CHICKEN"
+    },
+    {
+        "id": 1218,
+        "name": "Fried Egg",
+        "key": "item_fried_egg",
+        "var_name": "FRIED_EGG"
+    },
+    {
+        "id": 1219,
+        "name": "Raw Fish",
+        "key": "item_meat_fish",
+        "var_name": "MEAT_FISH"
+    },
+    {
+        "id": 1220,
+        "name": "Fried Fish",
+        "key": "item_roast_fish",
+        "var_name": "ROAST_FISH"
+    },
+    {
+        "id": 1221,
+        "name": "Pirate Hat",
+        "key": "item_iron_pirate_helmet",
+        "var_name": "PIRATE_HELMET"
+    },
+    {
+        "id": 1222,
+        "name": "Pirate Jacket",
+        "key": "item_iron_pirate_body",
+        "var_name": "PIRATE_JACKET"
+    },
+    {
+        "id": 1223,
+        "name": "Pirate Boots",
+        "key": "item_iron_pirate_legs",
+        "var_name": "PIRATE_SKIRT"
+    },
+    {
+        "id": 1224,
+        "name": "Dragon Helmet",
+        "key": "item_iron_dragon_helmet",
+        "var_name": "DRAGON_HELMET"
+    },
+    {
+        "id": 1225,
+        "name": "Damzan's Eagle",
+        "key": "item_damzan_eagle",
+        "var_name": "DAMZAN_EAGLE"
+    },
+    {
+        "id": 1226,
+        "name": "Horse Mask",
+        "key": "item_horse_mask",
+        "var_name": "HORSE_MASK"
+    },
+    {
+        "id": 1227,
+        "name": "Rude Mace",
+        "key": "item_rude_mace",
+        "var_name": "RUDE_MACE"
+    },
+    {
+        "id": 1228,
+        "name": "Bloody Sunrise Katana",
+        "key": "item_bloody_sunrise_katana",
+        "var_name": "BLOODY_SUNRISE_KATANA"
+    },
+    {
+        "id": 1229,
+        "name": "Bowler Hat",
+        "key": "item_bowler_hat",
+        "var_name": "BOWLER_HAT"
+    },
+    {
+        "id": 1230,
+        "name": "Space Force Helmet",
+        "key": "item_space_marine_helmet",
+        "var_name": "SPACE_MARINE_HELMET"
+    },
+    {
+        "id": 1231,
+        "name": "Space Force Chestplate",
+        "key": "item_space_marine_chestplate",
+        "var_name": "SPACE_MARINE_CHESTPLATE"
+    },
+    {
+        "id": 1232,
+        "name": "Space Force Boots",
+        "key": "item_space_marine_boots",
+        "var_name": "SPACE_MARINE_GREAVES"
+    },
+    {
+        "id": 1233,
+        "name": "Sticky Dynamite",
+        "key": "item_sticky_dynamite",
+        "var_name": "STICKY_DYNAMITE"
+    },
+    {
+        "id": 1234,
+        "name": "Scythe of Death",
+        "key": "item_scythe",
+        "var_name": "SCYTHE"
+    },
+    {
+        "id": 1235,
+        "name": "Flamethrower",
+        "key": "item_flamethrower",
+        "var_name": "FLAMETHROWER"
+    },
+    {
+        "id": 1236,
+        "name": "Alligator",
+        "key": "item_alligator",
+        "var_name": "ALLIGATOR"
+    },
+    {
+        "id": 1237,
+        "name": "Fuel canister",
+        "key": "item_fuel_canister",
+        "var_name": "FUEL_FLAMETHROWER"
+    },
+    {
+        "id": 1238,
+        "name": "Anaptanium Helmet",
+        "key": "item_anaptanium_helmet",
+        "var_name": "ANAPTAN_HELMET"
+    },
+    {
+        "id": 1239,
+        "name": "Anaptanium Chestplate",
+        "key": "item_anaptanium_chestplate",
+        "var_name": "ANAPTAN_CHAINMAIL"
+    },
+    {
+        "id": 1240,
+        "name": "Anaptanium Boots",
+        "key": "item_anaptanium_boots",
+        "var_name": "ANAPTAN_GREAVES"
+    },
+    {
+        "id": 1241,
+        "name": "Shadow Candle",
+        "key": "item_stick_shadow",
+        "var_name": "STICK_SHADOW"
+    }
+]
